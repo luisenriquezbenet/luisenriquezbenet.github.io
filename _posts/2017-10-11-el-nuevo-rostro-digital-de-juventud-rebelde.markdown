@@ -3,7 +3,9 @@ title: El nuevo rostro digital de Juventud Rebelde
 date: 2017-10-11 23:16:00 -03:00
 ---
 
-![diario-juventud-rebelde.jpg](/uploads/diario-juventud-rebelde.jpg)El periódico [Juventud Rebelde](http://www.juventudrebelde.cu), diario de los jóvenes cubanos, estrena una nueva versión digital con importantes mejoras en beneficio de todos.
+![diario-juventud-rebelde.jpg](/uploads/diario-juventud-rebelde.jpg)
+
+El periódico [Juventud Rebelde](http://www.juventudrebelde.cu), diario de los jóvenes cubanos, estrena una nueva versión digital con importantes mejoras en beneficio de todos.
 
 Con una interfaz limpia, elegante y moderna, la edición digital de la publicación presenta sus contenidos optimizados para los diferntes tipos de dispositivos, teniendo en cuenta que las estadísticas de [acceso a Internet en Cuba](http://www.granma.cu/cuba/2017-06-13/desconectarse-a-la-cubana-retos-de-un-nuevo-usuario-13-06-2017-22-06-01) apuntan al uso de equipos portables, al igual que en el resto del mundo.
 
