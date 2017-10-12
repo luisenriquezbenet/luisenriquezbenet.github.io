@@ -1,6 +1,6 @@
 ---
-title: Hello, world! I'm David Freeman
-timezone: UTC
+title: Blog de Luis Enriquez
+timezone: America/Halifax
 collections:
   posts:
     title: Posts
@@ -8,24 +8,23 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: 'Este es un espacio creado desde la Habana Cuba, para hablar sobre temas
+  de comunicación.
 
 '
 permalink: ":title/"
 baseurl: "/"
-url: ''
-author: David Freeman
+url: 
+author: Luis Enriquez
 author-img: david-freeman.jpg
-about-author: I am a web developer focusing on front-end development. Always hungry
-  to keep learning.
-twitter: 
+about-author: Comunicador social, periodista, amante del software libre,  la tecnología
+  y las redes sociales.
+twitter: benetluis
 facebook: 
-github: artemsheludko
-linkedin: 
+github: 
+linkedin: luisenriquezb
 email: 
-discus-identifier: mr-brown
+discus-identifier: 
 analytics: 
 markdown: kramdown
 plugins:
