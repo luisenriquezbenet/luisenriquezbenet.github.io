@@ -36,4 +36,6 @@ exclude:
 - package.json
 - yarn.lock
 
-gems: - jekyll-sitemap
+gems: 
+- jekyll
+- sitemap
