@@ -2,7 +2,6 @@
 title: El nuevo rostro digital de Juventud Rebelde
 date: 2017-10-11 23:16:00 -03:00
 img: diario-juventud-rebelde.jpg
-comments: true
 ---
 
 El periódico [Juventud Rebelde](http://www.juventudrebelde.cu), diario de los jóvenes cubanos, estrena una nueva versión digital con importantes mejoras en beneficio de todos.
