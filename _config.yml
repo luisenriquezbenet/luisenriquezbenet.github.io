@@ -23,7 +23,7 @@ twitter: benetluis
 linkedin: luisenriquezb
 email: 
 discus-identifier: 
-analytics: 
+analytics: gtag('config', 'UA-77725955-2');
 markdown: kramdown
 plugins:
 - jekyll-sitemap
