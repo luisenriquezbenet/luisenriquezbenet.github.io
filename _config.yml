@@ -25,6 +25,7 @@ email:
 discus-identifier: 
 analytics: gtag('config', 'UA-77725955-2');
 markdown: kramdown
+highlighter: rouge
 plugins:
 - jekyll-sitemap
 - jekyll-paginate
