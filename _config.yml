@@ -35,7 +35,6 @@ exclude:
 - gulpfile.js
 - package.json
 - yarn.lock
-
-gems: 
+gems:
 - jekyll
 - sitemap
