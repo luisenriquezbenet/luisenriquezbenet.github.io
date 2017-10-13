@@ -7,7 +7,7 @@ tags:
 - estudiantes
 - Rusia
 - paz
-img: text](https://drive.google.com/open?id=0B_cQ7OGujH9raGxvLThxSFpQWGc)
+img: https://drive.google.com/open?id=0B_cQ7OGujH9raGxvLThxSFpQWGc
 ---
 
 La edición número 19 del **[Festival Mundial de la Juventud y los Estudiantes](http://russia2017.com/es/)** comenzará este sábado 14 de octubre en la ciudad de Sochi, [Rusia](https://www.ecured.cu/Rusia). La cita, convocada por la [Federación Mundial de la Juventud Democrática](https://www.ecured.cu/Federaci%C3%B3n_Mundial_de_las_Juventudes_Democr%C3%A1ticas) y organizaciones estudiantiles internacionales, reunirá a unos 20 mil jóvenes de 150 países del mundo.
