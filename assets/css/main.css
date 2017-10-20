@@ -875,14 +875,14 @@ pre code {
   -webkit-border-radius: 100%;
           border-radius: 100%;
   overflow: hidden;
-  background-color: #3f4dba;
+  background-color: #203150;
 }
 
 .about img {
   width: 100%;
   height: 100%;
-  -webkit-border-radius: 10%;
-          border-radius: 10%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   -webkit-transition: -webkit-transform 0.35s;
   transition: -webkit-transform 0.35s;
   -o-transition: transform 0.35s;
