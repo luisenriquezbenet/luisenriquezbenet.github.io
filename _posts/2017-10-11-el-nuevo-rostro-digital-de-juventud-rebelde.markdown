@@ -4,6 +4,11 @@ date: 2017-10-11 23:16:00 -03:00
 img: diario-juventud-rebelde.jpg
 layout: post
 comments: true
+tags:
+ - Jóvenes
+ - Cuba
+ - Diseño Web
+ - Prensa
 ---
 
 El periódico [Juventud Rebelde](http://www.juventudrebelde.cu), diario de los jóvenes cubanos, estrena una nueva versión digital con importantes mejoras en beneficio de todos.
