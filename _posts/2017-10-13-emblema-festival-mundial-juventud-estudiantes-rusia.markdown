@@ -12,6 +12,7 @@ img: emblema-festival-mundial-juventud-estudiantes-rusia.jpg
 
 La edición número 19 del **[Festival Mundial de la Juventud y los Estudiantes](http://russia2017.com/es/)** comenzará este sábado 14 de octubre en la ciudad de Sochi, [Rusia](https://www.ecured.cu/Rusia). La cita, convocada por la [Federación Mundial de la Juventud Democrática](https://www.ecured.cu/Federaci%C3%B3n_Mundial_de_las_Juventudes_Democr%C3%A1ticas) y organizaciones estudiantiles internacionales, reunirá a unos 20 mil jóvenes de 150 países del mundo.
 
+
 Se trata de una plataforma devenida espacio de comunicación caracterizado por el intercambio libre, donde a través del diálogo, debates, actividades culturales y competencias deportivas,  se intercambian criterios que permiten a la joven generación enfrentar los desafíos actuales.
 
 Al igual que en las ediciones anteriores, el logo del festival es la margarita multicolor que simboliza la continuidad de las tradiciones, la conexión de las generaciones, paz y unidad mundial.
