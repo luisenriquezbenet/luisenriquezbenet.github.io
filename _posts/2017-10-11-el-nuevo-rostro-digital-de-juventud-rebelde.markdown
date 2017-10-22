@@ -22,7 +22,6 @@ A la derecha se mantienen las secciones habituales de Opinión, Columnas, Notici
 Un trabajo publicado por la redacción digital del rotativo cubano, explica las semejanzas, diferencias y ventajas de la nueva versión con respecto a la anterior, donde el equipo asegura que mantienen algunas de las características en cuanto a disposición del contenido, para facilitar la transición a este nuevo formato.
  
 > Felicidades a todos los miembros de nuestra Redacción Multimedia y de Desarrollo, en especial para Yurisander Guevara Zaila y Yisell Rodríguez Milán. También nuestro agradecimiento por su acompañamiento el Centro de Información para la Prensa.
-
 Yailín Orta (Directora de Juventud Rebelde)
 
 Se mantienen al final las carteleras de los canales nacionales de la televisión cubana, así como el acceso a los diferentes Suplementos, identificados con vistosos iconos al estilo “flat desing“, que bien pudiera también utilizarse para la representación gráfica de cada uno de los canales de TV y lograr una mayor homogeneidad del estilo visual.
