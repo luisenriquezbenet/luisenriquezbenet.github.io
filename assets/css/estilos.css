@@ -5,18 +5,6 @@
   box-sizing: border-box;
 }
 
-.text{
-  width: 85%;
-  max-width: 1000px;
-  margin: auto;
-}
-
-.text p{
-  font-family: 'Open sans';
-  margin: 15px
-
-}
-
 .up {
   position: fixed;
   bottom: 15px;
