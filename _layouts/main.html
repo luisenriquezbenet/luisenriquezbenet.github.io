@@ -21,6 +21,11 @@ layout: default
         {% else %}
           <li><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         {% endif %}
+        {% if site.rss %}
+          <li><a href="https://luisenriquezbenet.github.io/feed.xml{{ site.rss }}" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+        {% else %}
+          <li><a href="https://luisenriquezbenet.github.io/feed.xml" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+        {% endif %}
         {% if site.linkedin %}
           <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
         {% else %}
