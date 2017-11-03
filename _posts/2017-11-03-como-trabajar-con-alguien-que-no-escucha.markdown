@@ -8,6 +8,7 @@ tags:
 - Empatía
 - Escucha
 layout: post
+img: mal-oyente.jpg
 ---
 
 Trabajar con personas (compañeros, colegas más jóvenes e incluso superiores) que, sencillamente, no escuchan es todo un desafío. Ya sea porque sus compañeros le interrumpan, divaguen, parezcan distraídos o siempre estén esperando su turno para hablar, el impacto es el mismo: usted siente que no le escuchan y las probabilidades de que haya malentendidos (y errores) aumentan. ¿Existen tácticas para animar a sus colegas a escucharle mejor? ¿Debería advertirles sobre su nula capacidad de escucha? ¿Cuál es la mejor manera de transmitir un mensaje cuando la otra persona no quiere escuchar?
