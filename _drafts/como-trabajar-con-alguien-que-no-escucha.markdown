@@ -10,6 +10,10 @@ tags:
 layout: post
 ---
 
+Autor(a): Rebecca Knight
+
+Publicado en: [Harvard Business Review](https://www.hbr.es/mentorizaci-n/841/hola-disculpa-c-mo-trabajar-con-alguien-que-no-escucha?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BvBlihyxkRbSly5wKg9hMHg%3D%3D)
+
 Trabajar con personas (compañeros, colegas más jóvenes e incluso superiores) que, sencillamente, no escuchan es todo un desafío. Ya sea porque sus compañeros le interrumpan, divaguen, parezcan distraídos o siempre estén esperando su turno para hablar, el impacto es el mismo: usted siente que no le escuchan y las probabilidades de que haya malentendidos (y errores) aumentan. ¿Existen tácticas para animar a sus colegas a escucharle mejor? ¿Debería advertirles sobre su nula capacidad de escucha? ¿Cuál es la mejor manera de transmitir un mensaje cuando la otra persona no quiere escuchar?
 
 **Lo que dicen los expertos**
@@ -50,7 +54,7 @@ Otra opción, si el problema persiste, es instaurar un "contrato social" que se�
 
 **Principios a recordar**
 
-**        Hágalo:**
+\*\*        Hágalo:\*\*
 
 * Asegúrese de que sus colegas se sienten escuchados y comprendidos al valorar y validar sus puntos de vista.
 
