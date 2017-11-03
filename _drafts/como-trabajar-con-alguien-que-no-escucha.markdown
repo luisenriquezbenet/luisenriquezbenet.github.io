@@ -8,7 +8,7 @@ tags:
 - Empatía
 - Escucha
 layout: post
-img: mal-escucha.jpg
+img: mal oyente.jpg
 ---
 
 Autor(a): Rebecca Knight
