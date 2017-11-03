@@ -7,7 +7,7 @@ tags:
 - Comunicación
 - Empatía
 - Escucha
-img: "/uploads/mal-oyente.jpg"
+img: /uploads/mal-oyente.jpg
 layout: post
 ---
 
@@ -66,6 +66,7 @@ No lo haga:
 * No olvide su propio estilo de comunicación. Reflexione sobre la mejor manera de captar la atención de sus compañeros.
 
 * No tenga miedo de llamar a su colega, pero hágalo en términos positivos. Dígale algo como: "Pareces distraído. ¿Hay algo en lo que pueda ayudarte?".
+
 
 Autor(a): Rebecca Knight
 
