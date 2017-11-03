@@ -1,6 +1,13 @@
 ---
 title: "¿Hola? ¿Disculpa? Cómo trabajar con alguien que no escucha"
 date: 2017-11-03 09:36:00 -03:00
+categories:
+- Comunicación
+tags:
+- Comunicación
+- Empatía
+- Escucha
+layout: post
 ---
 
 Trabajar con personas (compañeros, colegas más jóvenes e incluso superiores) que, sencillamente, no escuchan es todo un desafío. Ya sea porque sus compañeros le interrumpan, divaguen, parezcan distraídos o siempre estén esperando su turno para hablar, el impacto es el mismo: usted siente que no le escuchan y las probabilidades de que haya malentendidos (y errores) aumentan. ¿Existen tácticas para animar a sus colegas a escucharle mejor? ¿Debería advertirles sobre su nula capacidad de escucha? ¿Cuál es la mejor manera de transmitir un mensaje cuando la otra persona no quiere escuchar?
