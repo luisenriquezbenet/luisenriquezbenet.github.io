@@ -7,7 +7,7 @@ tags:
 - Comunicación
 - Empatía
 - Escucha
-img: /uploads/mal-oyente.jpg
+img: "/uploads/mal-oyente.jpg"
 layout: post
 ---
 
