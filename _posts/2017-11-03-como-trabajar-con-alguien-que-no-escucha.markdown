@@ -7,13 +7,9 @@ tags:
 - Comunicación
 - Empatía
 - Escucha
-img: mal oyente.jpg
+img: mal-oyente.jpg
 layout: post
 ---
-
-Autor(a): Rebecca Knight
-
-Publicado en: [Harvard Business Review](https://www.hbr.es/mentorizaci-n/841/hola-disculpa-c-mo-trabajar-con-alguien-que-no-escucha?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BvBlihyxkRbSly5wKg9hMHg%3D%3D)
 
 Trabajar con personas (compañeros, colegas más jóvenes e incluso superiores) que, sencillamente, no escuchan es todo un desafío. Ya sea porque sus compañeros le interrumpan, divaguen, parezcan distraídos o siempre estén esperando su turno para hablar, el impacto es el mismo: usted siente que no le escuchan y las probabilidades de que haya malentendidos (y errores) aumentan. ¿Existen tácticas para animar a sus colegas a escucharle mejor? ¿Debería advertirles sobre su nula capacidad de escucha? ¿Cuál es la mejor manera de transmitir un mensaje cuando la otra persona no quiere escuchar?
 
@@ -55,7 +51,7 @@ Otra opción, si el problema persiste, es instaurar un "contrato social" que se�
 
 **Principios a recordar**
 
-\*\*        Hágalo:\*\*
+Hágalo:
 
 * Asegúrese de que sus colegas se sienten escuchados y comprendidos al valorar y validar sus puntos de vista.
 
@@ -63,10 +59,14 @@ Otra opción, si el problema persiste, es instaurar un "contrato social" que se�
 
 * Considere la posibilidad de abordar la idea de un contrato social para su equipo establezca unas normas sobre cómo deben interactuar los compañeros entre sí.
 
-        **No lo haga:**
+No lo haga:
 
 * No ignore las preferencias de sus colegas en cuanto a cómo les gusta recibir y procesar la información; algunas personas son verbales, otras visuales.
 
 * No olvide su propio estilo de comunicación. Reflexione sobre la mejor manera de captar la atención de sus compañeros.
 
 * No tenga miedo de llamar a su colega, pero hágalo en términos positivos. Dígale algo como: "Pareces distraído. ¿Hay algo en lo que pueda ayudarte?".
+
+Autor(a): Rebecca Knight
+
+Publicado en: [Harvard Business Review](https://www.hbr.es/mentorizaci-n/841/hola-disculpa-c-mo-trabajar-con-alguien-que-no-escucha?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BvBlihyxkRbSly5wKg9hMHg%3D%3D)
