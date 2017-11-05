@@ -27,4 +27,5 @@ El dominio del capital financiero se ejerce a través de la economía, de la int
 Para sobrevivir al embate invasivo de fórmulas que corroen la reflexión, la memoria y los mecanismos asociativos que integran y dan sentido a los diversos componentes de la realidad, la resistencia habrá de producirse mediante el fomento del espíritu crítico desde las primeras edades. Propiciada por la Revolución, la democratización de la cultura respondió, en primera instancia, a la voluntad de poner al alcance de las mayorías lo que había sido privilegio de unos pocos. Era también un modo de potenciar la creatividad en todos los ámbitos de la vida con la finalidad de devolvernos la capacidad de constituirnos en partícipes activos del devenir de nuestra historia. Ese proyecto fundador tiene hoy más vigencia que nunca.
 
 Este artículo fue publicado en [Juventud Rebelde](http://www.juventudrebelde.cu/opinion/2017-11-04/cultura-y-comunicacion)
+
 Autora: [Graziella Pogolotti](http://www.juventudrebelde.cu/autores/graziella-pogolotti)
