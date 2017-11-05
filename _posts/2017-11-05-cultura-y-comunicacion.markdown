@@ -10,7 +10,6 @@ tags:
 - Revolución
 - Prensa
 layout: post
-img: opinión-lienzo-maykel-herrera.jpg
 ---
 
 El cineasta [Julio García Espinosa](https://www.ecured.cu/Julio_Garc%C3%ADa_Espinosa) acostumbraba decir que todo hecho cultural tiene que convertirse en un acontecimiento. El arte y la literatura alcanzan su plena realización en la conciencia, la mente y los sentimientos de sus destinatarios. Depositados en esa memoria, se enriquecen con asociaciones imprevistas, despiertan inquietudes y curiosidades, crecen en multiplicidad de sentidos. Silenciado, el libro dormirá en los anaqueles de librerías y bibliotecas, la función teatral sufrirá las consecuencias de un público anémico y el concierto contará con la presencia de unos pocos especialistas. Resulta entonces que un enorme esfuerzo de creación y producción cae en el vacío.
