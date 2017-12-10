@@ -1,5 +1,5 @@
 ---
-title: "Cómo trabajar con alguien que no escucha"
+title: Cómo trabajar con alguien que no escucha
 date: 2017-11-03 09:36:00 -03:00
 categories:
 - Comunicación
