@@ -29,13 +29,14 @@ El propio Alain Pérez es autor de varios de los temas del fonograma, otros pert
 También está disponible para instalar en nuestros dispositivos móviles, una nueva entrega de Waldo Mendoza, que lo consolida como una voz romántica por excelencia en el panorama sonoro de Cuba. Bajo el título “Época de amar”, este trabajo presenta 10 temas musicales inspirados en las cartas de amor que intercambiaron Manuela Sáenz y Simón Bolívar.
 
 El disco además de una aplicación para celulares, también va acompañado por un libro homónimo, publicado de conjunto por la Casa Editora Abril y la EGREM.
-![descargar-app-adn.jpg](/assets/img/descargar-app-adn.jpg)
+![descargar-app-epoca.jpg](/assets/img/descargar-app-epoca.jpg)
 
 **“Sobreviviente” con Buena Fe**
 
 Otra propuesta que promueve la música en formato digital es el CD “Sobreviviente, de Buena Fe. Este disco ya tiene algún tiempo desde que fue publicado, pero aún así constituye un lujo para nuestros dispositivos (y oídos) tanto por su calidad musical así como por el acompañamiento visual con obras de Roberto Fabelo.
 
 La producción incluye 13 canciones de la autoría de Israel Rojas, además del tema "Hipibano", escrito junto a Frank Delgado y Vicente Alejandro Trigo. Especial atención merecen "La tempestad" intrepretada junto a Silvio Rodríguez, y "Una mujer" con la participación de Luna Manzanares.
+![descargar-app-sobreviviente.jpg](/assets/img/descargar-app-sobreviviente.jpg)
 
 Listo para instalar
 
