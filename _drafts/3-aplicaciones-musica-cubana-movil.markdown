@@ -14,7 +14,7 @@ En un entorno marcado por lo digital, la Empresa de Grabaciones y Ediciones Musi
 
 Te propongo disfrutar de 3 producciones de la mayor casa discográfica de Cuba, convertidos en aplicaciones para dispositivos móviles con sistema operativo Android. En ellas no solo puedes escuchar las diferentes pistas como lo hacemos de forma tradicional. Al mismo tiempo es posible tararear la letra de cada canción en sincronía perfecta con la melodía y disfrutar de excelentes imágenes de los intérpretes.
 
-El “ADN” de Alain Pérez
+**El “ADN” de Alain Pérez**
 
 ADN es la quinta producción de Alain Pérez, compositor, arreglista, instrumentista y productor, quien sobresalió en el panorama sonoro de nuestro país con el éxito “Hablando con Juana”.
 
@@ -22,11 +22,13 @@ Publicado bajo el sello EGREM, el fonograma de 12 temas continua el camino trans
 
 El propio Alain Pérez es autor de varios de los temas del fonograma, otros pertenecen a la firma de su padre Gradelio, así como de los compositores Juan Antonio Gil y José Claro Fumero.
 
+**Es “Época de Amar”**
+
 También está disponible para instalar en nuestros dispositivos móviles, una nueva entrega de Waldo Mendoza, que lo consolida como una voz romántica por excelencia en el panorama sonoro de Cuba. Bajo el título “Época de amar”, este trabajo presenta 10 temas musicales inspirados en las cartas de amor que intercambiaron Manuela Sáenz y Simón Bolívar.
 
 El disco además de una aplicación para celulares, también va acompañado por un libro homónimo, publicado de conjunto por la Casa Editora Abril y la EGREM.
 
-“Sobreviviente” con Buena Fe
+**“Sobreviviente” con Buena Fe**
 
 Otra propuesta que promueve la música en formato digital es el CD “Sobreviviente, de Buena Fe. Este disco ya tiene algún tiempo desde que fue publicado, pero aún así constituye un lujo para nuestros dispositivos (y oídos) tanto por su calidad musical así como por el acompañamiento visual con obras de Roberto Fabelo.
 
