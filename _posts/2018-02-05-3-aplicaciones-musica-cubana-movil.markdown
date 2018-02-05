@@ -8,6 +8,7 @@ tags:
 ---
 
 ![trabajo-apps-egrem.jpg](/assets/img/trabajo-apps-egrem.jpg)
+
 Nuestro país exhibe una gran diversidad de expresiones musicales, matizadas por los más jóvenes quienes configuran el espacio sonoro con diferentes ritmos y melodías. Gracias al uso de la tecnología, las nuevas generaciones llevan la música en su bolsillo y disfrutan de una capacidad absoluta para decidir qué escuchar y cuándo hacerlo.
 
 En un entorno marcado por lo digital, la Empresa de Grabaciones y Ediciones Musicales (EGREM) propone nuevas formas de comercialización de la música, para llegar a una mayor cantidad de usuarios, potenciando la descarga y el consumo de la música en nuevos formatos, tal y como aseguran en su sitio web.
@@ -28,6 +29,7 @@ El propio Alain Pérez es autor de varios de los temas del fonograma, otros pert
 También está disponible para instalar en nuestros dispositivos móviles, una nueva entrega de Waldo Mendoza, que lo consolida como una voz romántica por excelencia en el panorama sonoro de Cuba. Bajo el título “Época de amar”, este trabajo presenta 10 temas musicales inspirados en las cartas de amor que intercambiaron Manuela Sáenz y Simón Bolívar.
 
 El disco además de una aplicación para celulares, también va acompañado por un libro homónimo, publicado de conjunto por la Casa Editora Abril y la EGREM.
+![descargar-app-adn.jpg](/assets/img/descargar-app-adn.jpg)
 
 **“Sobreviviente” con Buena Fe**
 
