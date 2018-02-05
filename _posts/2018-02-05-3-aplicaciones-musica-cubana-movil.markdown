@@ -17,36 +17,33 @@ Te propongo disfrutar de 3 producciones de la mayor casa discográfica de Cuba, 
 
 **El “ADN” de Alain Pérez**
 
-ADN es la quinta producción de Alain Pérez, compositor, arreglista, instrumentista y productor, quien sobresalió en el panorama sonoro de nuestro país con el éxito “Hablando con Juana”.
+ADN es la quinta producción de [Alain Pérez](https://www.ecured.cu/Alain_Pérez), compositor, arreglista, instrumentista y productor, quien sobresalió en el panorama sonoro de nuestro país con el éxito “Hablando con Juana”.
 
-Publicado bajo el sello EGREM, el fonograma de 12 temas continua el camino transitado por el destacado intérprete, en defensa de la música popular bailable e importantes colaboraciones protagonizadas por Omara Portuondo, Rubén Blades, el Guajiro Mirabal, Barbarito Torres, entre otros.
+Publicado bajo el sello EGREM, el fonograma de 12 temas continua el camino transitado por el destacado intérprete, en defensa de la música popular bailable e importantes colaboraciones protagonizadas por [Omara Portuondo](https://www.ecured.cu/Omara_Portuondo), [Rubén Blades](https://www.ecured.cu/Rub%C3%A9n_Blades), el [Guajiro Mirabal](https://www.ecured.cu/Guajiro_Mirabal), Barbarito Torres, entre otros.
 
 El propio Alain Pérez es autor de varios de los temas del fonograma, otros pertenecen a la firma de su padre Gradelio, así como de los compositores Juan Antonio Gil y José Claro Fumero.
 
-
-![descargar-app-adn.jpg](/assets/img/descargar-app-adn.jpg)
+[![descargar-app-adn.jpg](/assets/img/descargar-app-adn.jpg)](http://www.egrem.com/images/articles/APP/AlainPerez_ADN.apk)
 
 **Es “Época de Amar”**
 
-También está disponible para instalar en nuestros dispositivos móviles, una nueva entrega de Waldo Mendoza, que lo consolida como una voz romántica por excelencia en el panorama sonoro de Cuba. Bajo el título “Época de amar”, este trabajo presenta 10 temas musicales inspirados en las cartas de amor que intercambiaron Manuela Sáenz y Simón Bolívar.
+También está disponible para instalar en nuestros dispositivos móviles, una nueva entrega de [Waldo Mendoza](http://waldomendoza.com/), que lo consolida como una voz romántica por excelencia en el panorama sonoro de Cuba. Bajo el título “Época de amar”, este trabajo presenta 10 temas musicales inspirados en las cartas de amor que intercambiaron [Manuela Sáenz](https://www.ecured.cu/Manuela_S%C3%A1enz) y [Simón Bolívar](https://www.ecured.cu/Sim%C3%B3n_Bol%C3%ADvar).
 
-El disco además de una aplicación para celulares, también va acompañado por un libro homónimo, publicado de conjunto por la Casa Editora Abril y la EGREM.
-
+El disco además de una aplicación para celulares, también va acompañado por un libro homónimo, publicado de conjunto por la [Casa Editora Abril](http://www.editoraabril.cu) y la EGREM.
 
 ![descargar-app-epoca.jpg](/assets/img/descargar-app-epoca.jpg)
 
 **“Sobreviviente” con Buena Fe**
 
-Otra propuesta que promueve la música en formato digital es el CD “Sobreviviente, de Buena Fe. Este disco ya tiene algún tiempo desde que fue publicado, pero aún así constituye un lujo para nuestros dispositivos (y oídos) tanto por su calidad musical así como por el acompañamiento visual con obras de Roberto Fabelo.
+Otra propuesta que promueve la música en formato digital es el CD “Sobreviviente, de [Buena Fe](http://buena-fe.com/). Este disco ya tiene algún tiempo desde que fue publicado, pero aún así constituye un lujo para nuestros dispositivos (y oídos) tanto por su calidad musical así como por el acompañamiento visual con obras de [Roberto Fabelo](https://www.ecured.cu/Fabelo).
 
-La producción incluye 13 canciones de la autoría de Israel Rojas, además del tema "Hipibano", escrito junto a Frank Delgado y Vicente Alejandro Trigo. Especial atención merecen "La tempestad" intrepretada junto a Silvio Rodríguez, y "Una mujer" con la participación de Luna Manzanares.
-
+La producción incluye 13 canciones de la autoría de Israel Rojas, además del tema "Hipibano", escrito junto a [Frank Delgado](https://www.ecured.cu/Frank_Delgado) y [Vicente Alejandro Trigo](https://www.ecured.cu/Vicente_Alejandro_Trigo). Especial atención merecen "La tempestad" intrepretada junto a [Silvio Rodríguez](https://www.ecured.cu/Silvio_Rodr%C3%ADguez), y "Una mujer" con la participación de [Luna Manzanares](https://www.ecured.cu/Luna_Manzanares).
 
 ![descargar-app-sobreviviente.jpg](/assets/img/descargar-app-sobreviviente.jpg)
 
 **Listo para instalar**
 
-Con una interfaz atractiva, intuitiva y sencilla, estas aplicaciones desarrolladas por un equipo de especialistas de la casa disquera, la Universidad de Ciencias Informáticas (UCI) y Desoft, nos permiten disfrutar el trabajo de 3 de los mejores intérpretes del catálogo EGREM, sin que para eso tengamos que desembolsar la mitad de nuestro salario o recurrir a quienes ejercen el oficio de la piratería.
+Con una interfaz atractiva, intuitiva y sencilla, estas aplicaciones desarrolladas por un equipo de especialistas de la casa disquera, la [Universidad de Ciencias Informáticas (UCI)](http://www.uci.cu) y Desoft, nos permiten disfrutar el trabajo de 3 de los mejores intérpretes del catálogo EGREM, sin que para eso tengamos que desembolsar la mitad de nuestro salario o recurrir a quienes ejercen el oficio de la piratería.
 
 En cuanto a valor agregado mucho se puede hacer. Por ejemplo, agregar galerías de fotos o videos del proceso de grabación, la hoja de vida del artista incluyendo información sobre producciones anteriores, opciones para crear una lista de reproducción que nos permita elegir entre las canciones, acceso a contenido único en plataformas online, entre otras ideas.
 
