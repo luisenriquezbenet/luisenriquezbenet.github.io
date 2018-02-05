@@ -7,7 +7,7 @@ tags:
 - Aplicaciones
 ---
 
-
+![trabajo apps egrem.jpg](/uploads/luis-enriquez-2016.jpg)
 Nuestro país exhibe una gran diversidad de expresiones musicales, matizadas por los más jóvenes quienes configuran el espacio sonoro con diferentes ritmos y melodías. Gracias al uso de la tecnología, las nuevas generaciones llevan la música en su bolsillo y disfrutan de una capacidad absoluta para decidir qué escuchar y cuándo hacerlo.
 
 En un entorno marcado por lo digital, la Empresa de Grabaciones y Ediciones Musicales (EGREM) propone nuevas formas de comercialización de la música, para llegar a una mayor cantidad de usuarios, potenciando la descarga y el consumo de la música en nuevos formatos, tal y como aseguran en su sitio web.
