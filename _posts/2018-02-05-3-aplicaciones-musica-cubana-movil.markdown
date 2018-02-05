@@ -23,7 +23,7 @@ Publicado bajo el sello EGREM, el fonograma de 12 temas continua el camino trans
 
 El propio Alain Pérez es autor de varios de los temas del fonograma, otros pertenecen a la firma de su padre Gradelio, así como de los compositores Juan Antonio Gil y José Claro Fumero.
 
-[![descargar-app-adn.jpg](/assets/img/descargar-app-adn.jpg)](http://www.egrem.com/images/articles/APP/AlainPerez_ADN.apk)
+<a href="http://www.egrem.com/images/articles/APP/AlainPerez_ADN.apk" rel="attachment wp-att-15841"><img class="aligncenter wp-image-15841" src="../assets/img/descargar-app-epoca.jpg" alt="Clic aquí para descar la app del CD &quot;ADN&quot; de Alain Pérez" width="446" height="67" /></a>
 
 **Es “Época de Amar”**
 
