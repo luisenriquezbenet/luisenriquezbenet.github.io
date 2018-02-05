@@ -32,7 +32,7 @@ También está disponible para instalar en nuestros dispositivos móviles, una n
 
 El disco además de una aplicación para celulares, también va acompañado por un libro homónimo, publicado de conjunto por la [Casa Editora Abril](http://www.editoraabril.cu) y la EGREM.
 
-<center>![descargar-app-epoca.jpg](/assets/img/descargar-app-epoca.jpg)</center>
+![descargar-app-epoca.jpg]<center>(/assets/img/descargar-app-epoca.jpg)</center>
 
 **“Sobreviviente” con Buena Fe**
 
