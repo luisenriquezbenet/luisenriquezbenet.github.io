@@ -7,7 +7,7 @@ tags:
 - Aplicaciones
 ---
 
-![trabajo-apps-egrem.jpg](/assets/img/trabajo apps egrem.jpg)
+![trabajo-apps-egrem.jpg](/assets/img/trabajo-apps-egrem.jpg)
 Nuestro país exhibe una gran diversidad de expresiones musicales, matizadas por los más jóvenes quienes configuran el espacio sonoro con diferentes ritmos y melodías. Gracias al uso de la tecnología, las nuevas generaciones llevan la música en su bolsillo y disfrutan de una capacidad absoluta para decidir qué escuchar y cuándo hacerlo.
 
 En un entorno marcado por lo digital, la Empresa de Grabaciones y Ediciones Musicales (EGREM) propone nuevas formas de comercialización de la música, para llegar a una mayor cantidad de usuarios, potenciando la descarga y el consumo de la música en nuevos formatos, tal y como aseguran en su sitio web.
@@ -21,6 +21,7 @@ ADN es la quinta producción de Alain Pérez, compositor, arreglista, instrument
 Publicado bajo el sello EGREM, el fonograma de 12 temas continua el camino transitado por el destacado intérprete, en defensa de la música popular bailable e importantes colaboraciones protagonizadas por Omara Portuondo, Rubén Blades, el Guajiro Mirabal, Barbarito Torres, entre otros.
 
 El propio Alain Pérez es autor de varios de los temas del fonograma, otros pertenecen a la firma de su padre Gradelio, así como de los compositores Juan Antonio Gil y José Claro Fumero.
+![descargar-app-adn.jpg](/assets/img/descargar-app-adn.jpg)
 
 **Es “Época de Amar”**
 
