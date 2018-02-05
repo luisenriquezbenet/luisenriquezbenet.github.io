@@ -1,11 +1,12 @@
 ---
-title: 3 aplicaciones para llevar música cubana en nuestro móvil
+title: 3 propuestas musicales para llevar en tu móvil
 date: 2018-01-22 00:16:00 -04:00
 tags:
 - Cuba
 - Música
 - Aplicaciones
 ---
+
 
 Nuestro país exhibe una gran diversidad de expresiones musicales, matizadas por los más jóvenes quienes configuran el espacio sonoro con diferentes ritmos y melodías. Gracias al uso de la tecnología, las nuevas generaciones llevan la música en su bolsillo y disfrutan de una capacidad absoluta para decidir qué escuchar y cuándo hacerlo.
 
