@@ -24,7 +24,7 @@ Publicado bajo el sello EGREM, el fonograma de 12 temas continua el camino trans
 
 El propio Alain Pérez es autor de varios de los temas del fonograma, otros pertenecen a la firma de su padre Gradelio, así como de los compositores Juan Antonio Gil y José Claro Fumero.
 
-[descargar-app-adn.jpg](/assets/img/descargar-app-adn.jpg)
+![descargar-app-adn.jpg](/assets/img/descargar-app-adn.jpg)
 
 **Es “Época de Amar”**
 
