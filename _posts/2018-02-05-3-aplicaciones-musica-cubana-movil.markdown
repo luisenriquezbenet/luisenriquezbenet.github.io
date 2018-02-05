@@ -1,6 +1,6 @@
 ---
 title: 3 propuestas musicales para llevar en tu móvil
-date: 2018-01-22 00:16:00 -04:00
+date: 2018-02-05 15:45:00 -04:00
 tags:
 - Cuba
 - Música
