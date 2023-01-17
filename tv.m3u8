@@ -25,40 +25,40 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:100,NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:28,America TeVe USA
+#EXTINF:28,America TeVe
 https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
-#EXTINF:32,TeleSUR Venezuela
+#EXTINF:32,TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:42,Cubavisión TV
+#EXTINF:42,Cubavisión
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-#EXTINF:0,Molahits TV España
+#EXTINF:0,Molahits TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:72,La Mega Mundial USA
+#EXTINF:72,La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
-#EXTINF:0,Music Top Argentina
+#EXTINF:0,Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:20,RT en Español (1080p) [Geo-blocked]
+#EXTINF:20,RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:60,Vevo Latino (1080p) [Not 24/7]
+#EXTINF:60,Vevo Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/i1x1zzn.png" group-title="Undefined",TEC TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8?checkedby:iptvcat.com
-#EXTINF:60,CGTN Español (576p)
+#EXTINF:60,CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:28,Charrúa Televisión (720p) [Not 24/7]
+#EXTINF:28,Charrúa Televisión
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/charruatvcanal
-#EXTINF:80,HispanTV (480p)
+#EXTINF:80,HispanTV
 https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF:0,TELEMUNDO44
+#EXTINF:0,TELEMUNDO 44
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654?checkedby:dailyfreeiptvlist.com
-#EXTINF:0,TELEMUNDO48
+#EXTINF:0,TELEMUNDO 48
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655?checkedby:dailyfreeiptvlist.com
-#EXTINF:0,UNIVISION USA HD
+#EXTINF:0,UNIVISION
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668?checkedby:dailyfreeiptvlist.com
 #EXTINF:0,Antena 3
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484?checkedby:dailyfreeiptvlist.com
-#EXTINF:0,BEIN ESPANIOL HD
+#EXTINF:0,BEIN E
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487?checkedby:dailyfreeiptvlist.com
