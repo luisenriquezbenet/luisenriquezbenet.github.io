@@ -44,3 +44,5 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/i1x1zzn.png" group-title="Undefined",TEC TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8?checkedby:iptvcat.com
