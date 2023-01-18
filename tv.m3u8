@@ -1,66 +1,76 @@
 #EXTM3U
-#EXTINF:7200,24h
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/telemundo.png" group-title="Latino",Telemundo 44
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654?checkedby:dailyfreeiptvlist.com
+
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/telemundo.png" group-title="Latino",Telemundo 48
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655?checkedby:dailyfreeiptvlist.com
+
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/univision.png" group-title="Latino",Univisión
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668?checkedby:dailyfreeiptvlist.com
+
+#EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/antena3.png" group-title="Undefined",Antena 3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484?checkedby:dailyfreeiptvlist.com
+
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/bein.png" group-title="Deportes",BeIn Sports
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487?checkedby:dailyfreeiptvlist.com
+
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/weather.png" group-title="Undefined",Weather Channel
+https://linear-431.frequency.stream/431/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:0 tvg-country="Rusia" tvg-logo="https://rndserv.xyz/img/rt.png" group-title="Noticias",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/24h.png" group-title="Noticias",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:30,Euronews
+
+#EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/euronews.png" group-title="Undefined",Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:150,El País
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:60,7NN Noticias
-https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
-#EXTINF:143,El Confidencial
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:60,RealMadrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:20,Cartoon Network Latino
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:1800,DW Alemania
+
+#EXTINF:0 tvg-country="Alemania" tvg-logo="https://rndserv.xyz/img/dw.png" group-title="Noticias",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:60,FOX Live Now USA EN
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:32,ABC News USA EN
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0,CBS News USA EN
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:100,NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:100,NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/americateve.png" group-title="Undefined",America TeVe
+
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/americateve.png" group-title="Latino",America TeVe
 https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
-#EXTINF:32,TeleSUR
+
+#EXTINF:0 tvg-country="" tvg-logo="https://rndserv.xyz/img/telesur.png" group-title="Noticias",teleSur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:42,Cubavisión
+
+#EXTINF:0 tvg-country="Cuba" tvg-logo="https://www.cvi.icrt.cu/wp-content/uploads/2023/01/192x192-150x150.png" group-title="Undefined",Cubavisión
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-#EXTINF:0,Molahits TV
+
+#EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/molahitstv.png" group-title="Música",Molahits Tv
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:72,La Mega Mundial
+
+#EXTINF:0 tvg-country="" tvg-logo="https://rndserv.xyz/img/mega.png" group-title="Música",La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
-#EXTINF:0,Music Top
+
+#EXTINF:0 tvg-country="" tvg-logo="https://rndserv.xyz/img/musictop.png" group-title="Música",Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:20,RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:60,Vevo Latino
+
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/vevo.png" group-title="Música",Vevo Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CNN USA (720p)
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/i1x1zzn.png" group-title="Undefined",TEC TV
+
+#EXTINF:0 tvg-country="Argentina" tvg-logo="https://i.imgur.com/i1x1zzn.png" group-title="Undefined",TEC TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8?checkedby:iptvcat.com
-#EXTINF:60,CGTN Español
+
+#EXTINF:0 tvg-country="China" tvg-logo="https://rndserv.xyz/img/cgtn.png" group-title="Undefined",CGTN E
 https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:0 tvg-country="Irán" tvg-logo="https://rndserv.xyz/img/hispantv.png" group-title="Noticias",Hispantv
+https://live1.presstv.ir/live/hispan.m3u8
+
+#EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/rm.png" group-title="Deportes",Real Madrid Tv
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/nasa.png" group-title="Undefined",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/nasa.png" group-title="Undefined",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/cnn.png" group-title="Noticias",CNN USA
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?checkedby:iptvcat.com
+
 #EXTINF:28,Charrúa Televisión
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/charruatvcanal
-#EXTINF:80,HispanTV
-https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF:0,TELEMUNDO 44
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654?checkedby:dailyfreeiptvlist.com
-#EXTINF:0,TELEMUNDO 48
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655?checkedby:dailyfreeiptvlist.com
-#EXTINF:0,UNIVISION
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668?checkedby:dailyfreeiptvlist.com
-#EXTINF:0,Antena 3
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484?checkedby:dailyfreeiptvlist.com
-#EXTINF:0,BEIN E
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487?checkedby:dailyfreeiptvlist.com
-#EXTINF:0,Weather Channel E
-https://linear-431.frequency.stream/431/hls/master/playlist_1024x576.m3u8
