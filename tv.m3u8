@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/telemundo.png" group-title="Latino",Telemundo 44
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654?checkedby:dailyfreeiptvlist.com
-
-#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/telemundo.png" group-title="Latino",Telemundo 48
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655?checkedby:dailyfreeiptvlist.com
-
-#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/univision.png" group-title="Latino",Univisión
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668?checkedby:dailyfreeiptvlist.com
-
-#EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/antena3.png" group-title="Undefined",Antena 3
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484?checkedby:dailyfreeiptvlist.com
-
-#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/bein.png" group-title="Deportes",BeIn Sports
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487?checkedby:dailyfreeiptvlist.com
-
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/weather.png" group-title="Undefined",Weather Channel
 https://linear-431.frequency.stream/431/hls/master/playlist_1024x576.m3u8
 
@@ -74,3 +59,21 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_
 
 #EXTINF:28,Charrúa Televisión
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/charruatvcanal
+
+#EXTINF:0 tvg-country="" tvg-logo="https://rndserv.xyz/img/france24.png" group-title="Noticias",France 24
+http://n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
+
+#EXTINF:0 tvg-country="Argentina" tvg-logo="https://rndserv.xyz/img/encuentro.png" group-title="",Canal Encuentro
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+
+#EXTINF:0 tvg-country="" tvg-logo="https://rndserv.xyz/img/telemundo.png" group-title="Noticias",Telemundo
+http://170.0.233.19:8000/play/a0g9/index.m3u8
+
+#EXTINF:-1,TyC Sports
+http://181.78.27.188:5350/play/a00w
+
+#EXTINF:0 tvg-country="" tvg-logo="https://rndserv.xyz/img/cnn.png" group-title="Noticias",CNN Chile
+http://181.78.27.188:5350/play/a036
+
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/cnn.png" group-title="Noticias",CNN en Español
+http://170.0.233.19:8000/play/a0mz/index.m3u8
