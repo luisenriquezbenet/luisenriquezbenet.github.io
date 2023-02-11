@@ -81,7 +81,7 @@ http://170.0.233.19:8000/play/a0mz/index.m3u8
 #EXTINF:0 tvg-country="Uruguay" tvg-logo="https://rndserv.xyz/img/tvciudad.png" group-title="Locales",Tv Ciudad
 https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjc2MTU0MzAxJnJhbmRvbT0zVWprYnM5dlZrJmMtaXA9MTc5LjI1LjIzOC4zOSZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTEyODAmcHVibGljX2lkPTJzZ3NtLDU0Yjc4NGRlZDcyZTJhN2EyYjY4OGE3MzcyYzc4MmJjMWFmNWI3OWE0YmM2OTRjYTBlMzg4YWU5ZWY5MDNiYmU=/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var950000/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QK6CbsM/canal10.png" tvg-group="URUGUAY", CANAL 10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/vtvplus.json
-https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/canal10uy.json
+https://1163-vos.dtvott.com/DASH/manifest.mpd
