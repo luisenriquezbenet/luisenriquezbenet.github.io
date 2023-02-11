@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/weather.png" group-title="Undefined",Weather Channel
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/weather.png" group-title="Noticias",Weather Channel
 https://linear-431.frequency.stream/431/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:0 tvg-country="Rusia" tvg-logo="https://rndserv.xyz/img/rt.png" group-title="Noticias",RT en Español
@@ -8,7 +8,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/24h.png" group-title="Noticias",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/euronews.png" group-title="Undefined",Euronews
+#EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/euronews.png" group-title="Noticias",Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-country="Alemania" tvg-logo="https://rndserv.xyz/img/dw.png" group-title="Noticias",DW
@@ -36,10 +36,10 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/vevo.png" group-title="Música",Vevo Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
-#EXTINF:0 tvg-country="Argentina" tvg-logo="https://i.imgur.com/i1x1zzn.png" group-title="Undefined",TEC TV
+#EXTINF:0 tvg-country="Argentina" tvg-logo="https://i.imgur.com/i1x1zzn.png" group-title="",TEC TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="China" tvg-logo="https://rndserv.xyz/img/cgtn.png" group-title="Undefined",CGTN E
+#EXTINF:0 tvg-country="China" tvg-logo="https://rndserv.xyz/img/cgtn.png" group-title="",CGTN E
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:0 tvg-country="Irán" tvg-logo="https://rndserv.xyz/img/hispantv.png" group-title="Noticias",Hispantv
@@ -48,10 +48,10 @@ https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/rm.png" group-title="Deportes",Real Madrid Tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/nasa.png" group-title="Undefined",NASA TV Public
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/nasa.png" group-title="",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/nasa.png" group-title="Undefined",NASA TV Media
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/nasa.png" group-title="",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/cnn.png" group-title="Noticias",CNN USA
@@ -77,3 +77,6 @@ http://181.78.27.188:5350/play/a036
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/cnn.png" group-title="Noticias",CNN en Español
 http://170.0.233.19:8000/play/a0mz/index.m3u8
+
+#EXTINF:0 tvg-country="Uruguay" tvg-logo="https://rndserv.xyz/img/tvciudad.png" group-title="Locales",Tv Ciudad
+https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjc2MTU0MzAxJnJhbmRvbT0zVWprYnM5dlZrJmMtaXA9MTc5LjI1LjIzOC4zOSZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTEyODAmcHVibGljX2lkPTJzZ3NtLDU0Yjc4NGRlZDcyZTJhN2EyYjY4OGE3MzcyYzc4MmJjMWFmNWI3OWE0YmM2OTRjYTBlMzg4YWU5ZWY5MDNiYmU=/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var950000/playlist.m3u8
