@@ -118,7 +118,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/filmarts.png" group-title="",Film & Arts
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=590545859&_cdn_timestamp=1676415397&_cdn_token=19c749326194148f407cb690a80c1e2b08bcb267
 
-#EXTINF:0 tvg-country="USA" tvg-logo="https://dcom-prod.imgix.net/files/logos/h%26H.svg" group-title="",Discovery Home & Health
+#EXTINF:0 tvg-country="USA" tvg-logo="https://megatelevisionhd.com/img/logo_canal/Discovery_H&H.png" group-title="",Discovery Home & Health
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=590910387&_cdn_timestamp=1676426468&_cdn_token=b5d25f5f9c21326121a6c3b623722b6d0e88ac23
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="",ESPN
@@ -157,7 +157,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/40-hls/live-
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/discovery.png" group-title="Documentales",Discovery Turbo
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_session=590934843&_cdn_timestamp=1676426954&_cdn_token=77efd9845c097d36d355ca5871773ac69288041d
 
-#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/discovery.png" group-title="Documentales",Discovery World
+#EXTINF:0 tvg-country="USA" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryworld.png" group-title="Documentales",Discovery World
 http://181.78.11.117:8000/play/a06s/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/animal.png" group-title="Documentales",Animal Planet
