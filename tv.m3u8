@@ -3,9 +3,6 @@
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/weather.png" group-title="Undefined",Weather Channel
 https://linear-431.frequency.stream/431/hls/master/playlist_1024x576.m3u8
 
-#EXTINF:0 tvg-country="Rusia" tvg-logo="https://rndserv.xyz/img/rt.png" group-title="Noticias",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
 #EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/24h.png" group-title="Noticias",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
