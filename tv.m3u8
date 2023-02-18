@@ -216,3 +216,6 @@ http://51.158.36.81:18000/Telecinco/hls/playlist.m3u8
 
 #EXTINF:0 tvg-country="España" tvg-logo="https://dominio.beauty/img/lasexta.png" group-title="",La sexta
 http://51.158.36.81:18000/La_Sexta/hls/playlist.m3u8
+
+#EXTINF:0 tvg-country="" tvg-logo="https://dominio.beauty/img/18.png" group-title="",Adult Gay
+http://cdn.adultiptv.net/gay.m3u8
