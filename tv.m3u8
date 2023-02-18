@@ -59,7 +59,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/charruatvcanal
 
 #EXTINF:0 tvg-country="" tvg-logo="https://rndserv.xyz/img/france24.png" group-title="Noticias",France 24
-http://n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
+http://181.189.243.254:8000/play/a0pu/index.m3u8
 
 #EXTINF:0 tvg-country="Argentina" tvg-logo="https://rndserv.xyz/img/encuentro.png" group-title="",Canal Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
