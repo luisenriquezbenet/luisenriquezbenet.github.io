@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/weather.png" group-title="Undefined",Weather Channel
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/weather.png" group-title="Noticias",Weather Channel
 https://linear-431.frequency.stream/431/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/24h.png" group-title="Noticias",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/euronews.png" group-title="Undefined",Euronews
+#EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/euronews.png" group-title="Noticias",Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-country="Alemania" tvg-logo="https://rndserv.xyz/img/dw.png" group-title="Noticias",DW
@@ -55,8 +55,8 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/cnn.png" group-title="Noticias",CNN USA
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="" tvg-logo="https://rndserv.xyz/img/france24.png" group-title="Noticias",France 24
-http://181.189.243.254:8000/play/a0pu/index.m3u8
+#EXTINF:0 tvg-country="Francia" tvg-logo="https://rndserv.xyz/img/france24.png" group-title="Noticias",France 24
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677102919/ei/5zr2Y-XTDczp1gKF2K_wBQ/ip/92.205.15.128/id/XDJPzMznAjU.3/source/yt_live_broadcast/requiressl/yes/tx/24249503/txs/24249503%2C24429555%2C24435245/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALwZbrbE8q59OQ14rIMaR2rb0y-IghCm_cF7yd0_IqJLAiBEu_CA4f0IxWMDBIyiTZwd9XotGur5h14Olb5ZregxNA%3D%3D/file/index.m3u8
 
 #EXTINF:0 tvg-country="Argentina" tvg-logo="https://rndserv.xyz/img/encuentro.png" group-title="",Canal Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
