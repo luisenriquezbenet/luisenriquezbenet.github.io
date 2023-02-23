@@ -65,16 +65,16 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 https://v-la.mybtv.net/live/267.m3u8?
 
 #EXTINF:-1,TyC Sports
-http://181.78.27.188:5350/play/a00w
+http://186.3.76.238:8000/play/a0c3/index.m3u8
 
 #EXTINF:0 tvg-country="" tvg-logo="https://rndserv.xyz/img/cnn.png" group-title="Noticias",CNN Chile
-http://181.78.27.188:5350/play/a036
+http://181.65.154.170:8000/play/a08k/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/cnn.png" group-title="Noticias",CNN en Español
 http://181.189.243.254:8000/play/a0ps/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/univision.png" group-title="Latino",Univisión
-http://181.189.243.254:8000/play/a0v0/index.m3u8
+https://v-px.mybtv.net/live/28.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/ae.png" group-title="",A&E
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=606148291&_cdn_timestamp=1677223778&_cdn_token=f01ea9f5e73d4f1fda098640954f36e7914563f3
