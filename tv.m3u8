@@ -203,7 +203,7 @@ https://v-px.mybtv.net/live/45.m3u8
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/univision.png" group-title="Latino",Univisión
 https://v-px.mybtv.net/live/28.m3u8
 
-#EXTINF:0 tvg-country="Uruguay" tvg-logo="https://rndserv.xyz/img/univision.png" group-title="",Teledoce
+#EXTINF:0 tvg-country="Uruguay" tvg-logo="https://dominio.beauty/img/teledoce.png" group-title="",Teledoce
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/21796
 
 #EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/antena3.png" group-title="",Antena 3
