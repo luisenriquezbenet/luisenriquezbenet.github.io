@@ -206,3 +206,8 @@ http://51.158.36.81:18000/La_Sexta/hls/playlist.m3u8
 
 #EXTINF:0 tvg-country="" tvg-logo="https://dominio.beauty/img/18.png" group-title="Adultos",Adult Gay
 http://cdn.adultiptv.net/gay.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe49940345dd5e40be8f6c163a088aff:464172bbc422938df76633bf3a8a2b54
+#EXTINF:-1 tvg-id="DNewsSouth.us" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_07/large.2104566831_DIRECTVNEWS.png.746729f5bca6e79471ca42a3d4c7f484.png" group-title="Mundo", D News
+https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
