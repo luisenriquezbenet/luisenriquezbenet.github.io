@@ -91,7 +91,7 @@ http://181.189.243.254:8000/play/a0ou/index.m3u8
 http://181.189.243.254:8000/play/a0ov/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/tnt.png" group-title="",TNT
-http://161.132.101.134:8000/play/a030/index.m3u8
+http://45.179.164.9:8000/play/a032/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/disney.png" group-title="",Disney Channel
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=636553131&_cdn_timestamp=1678836575&_cdn_token=874157d948f8e717fe53bb3a773f00361538503e
