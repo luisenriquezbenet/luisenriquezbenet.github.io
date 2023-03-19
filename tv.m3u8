@@ -43,7 +43,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:0 tvg-country="Francia" tvg-logo="https://rndserv.xyz/img/france24.png" group-title="Noticias",France 24
-http://181.189.243.254:8000/play/a0pu/index.m3u8
+https://vxlive.cdn.antel.net.uy/auth_V_France24_4,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfRnJhbmNlMjRfNCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjc5Mjc3MDI3JnJhbmRvbT1ZQWtpUmppcFQ3JmMtaXA9MTY3LjU2LjEyNS4xMzQmaWRfcmVmZXJlbmNpYT1XWEtVTk9RN0VZNkNIQzRIRVlVWU9CTEpXSlhYQ1NINktJWUg4R0pMWFdLWFdZWDZMRDUwQlhRQlpMUTNDTkI5Skw2N0dUSlNSREVLTjhRM0pET0ZFWjJNUU42UzRVSVhaWFIzMEtRUEVZREZQMVFVWUNMRlhSN1hXSlhMQkNJWCZpZF9kaXNwb3NpdGl2bz0xMjc0ODMzNjcmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2OHcsOWM1YmMxOTVlNmUxMmE3MWE5M2I5NzQ3YWNmZmJiNmM2MDdlZjM4NmNkNmQ5ZDUxNzVmNzgzNTVjMzk2ODg4Mw==/vxfmt=hls/h_99e4bd3044936293981836c1d56e0aec/var3950000/playlist.m3u8
 
 #EXTINF:0 tvg-country="Argentina" tvg-logo="https://rndserv.xyz/img/encuentro.png" group-title="",Canal Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
