@@ -204,3 +204,10 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-country="" tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="Noticias",N+ Media
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
+
+#EXTVLCOPT:network-caching=1000
+https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
