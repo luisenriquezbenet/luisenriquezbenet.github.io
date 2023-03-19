@@ -192,3 +192,6 @@ http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302675.m3u8
 
 #EXTINF:0 tvg-country="Venezuela" tvg-logo="" group-title="Deportes",Venevisión
 http://45.179.164.9:8000/play/a00h/index.m3u8
+
+#EXTINF:0 tvg-country="Venezuela" tvg-logo="" group-title="Deportes",Tigo Sports
+http://181.78.105.146:8000/play/a05x
