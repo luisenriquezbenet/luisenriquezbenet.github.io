@@ -195,3 +195,9 @@ http://45.179.164.9:8000/play/a00h/index.m3u8
 
 #EXTINF:0 tvg-country="Venezuela" tvg-logo="" group-title="Deportes",Tigo Sports
 http://181.78.105.146:8000/play/a05x
+
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Deportes | USA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/200284
+
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA HD" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Deportes | USA HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10928
