@@ -189,3 +189,6 @@ http://45.160.15.130:2909/play/119
 
 #EXTINF:0 tvg-country="México" tvg-logo="" group-title="Deportes",Imagen TV
 http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302675.m3u8
+
+#EXTINF:0 tvg-country="Venezuela" tvg-logo="" group-title="Deportes",Venevisión
+http://45.179.164.9:8000/play/a00h/index.m3u8
