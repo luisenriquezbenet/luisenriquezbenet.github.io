@@ -51,7 +51,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://rndserv.xyz/img/telemundo.png" group-title="Noticias",Telemundo
 http://45.190.13.50:8002/play/a00u/index.m3u8
 
-#EXTINF:-1,TyC Sports
+#EXTINF:0 tvg-country="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Deportes",TyC Sports  
 http://186.3.76.238:8000/play/a0c3/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/cnn.png" group-title="Noticias",CNN en Español
@@ -108,7 +108,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #EXTINF:0 tvg-country="USA" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="Deportes",ESPN 2
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
-#EXTINF:0 tvg-country="USA" tvg-logo="https://tntsports.com.ar/__export/1610632360826/sites/tntsports/arte/logo_20210114.svg" group-title="Deportes",TNT Sports
+#EXTINF:0 tvg-country="USA" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png" group-title="Deportes",TNT Sports
 http://181.39.202.98:9993/play/a169/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/bein.png" group-title="Deportes",BeIN Sports Ñ
@@ -135,13 +135,13 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/history.png" group-title="Documentales",History 2
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=666837147&_cdn_timestamp=1680129239&_cdn_token=c9cb53b20a5b6800bc6136d274ce2ee06df1b5ba
 
-#EXTINF:0 tvg-country="" tvg-logo="https://www.tudn.com/_next/static/images/tudn-logo.41042bdbba80980634116fb7d7007027.svg" group-title="Deportes",TUDN
+#EXTINF:0 tvg-country="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png" group-title="Deportes",TUDN
 http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/304510.m3u8
 
 #EXTINF:0 tvg-country="" tvg-logo="https://dominio.beauty/img/e.png" group-title="",E!
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=666817803&_cdn_timestamp=1680128154&_cdn_token=c635aac846419ddbfbcfbf8fc046a938bdcbdb97
 
-#EXTINF:0 tvg-country="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_UniM%C3%A1s.svg" group-title="Latino",UniMás
+#EXTINF:0 tvg-country="USA" tvg-logo="https://logodix.com/logo/1630927.png" group-title="Latino",UniMás
 https://v-la.mybtv.net/live/168.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/estrellatv.png" group-title="Latino",Estrella Tv
