@@ -43,7 +43,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:0 tvg-country="Francia" tvg-logo="https://rndserv.xyz/img/france24.png" group-title="Noticias",France 24
-https://vxlive.cdn.antel.net.uy/auth_V_France24_4,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfRnJhbmNlMjRfNCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjc5Mjc3MDI3JnJhbmRvbT1ZQWtpUmppcFQ3JmMtaXA9MTY3LjU2LjEyNS4xMzQmaWRfcmVmZXJlbmNpYT1XWEtVTk9RN0VZNkNIQzRIRVlVWU9CTEpXSlhYQ1NINktJWUg4R0pMWFdLWFdZWDZMRDUwQlhRQlpMUTNDTkI5Skw2N0dUSlNSREVLTjhRM0pET0ZFWjJNUU42UzRVSVhaWFIzMEtRUEVZREZQMVFVWUNMRlhSN1hXSlhMQkNJWCZpZF9kaXNwb3NpdGl2bz0xMjc0ODMzNjcmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2OHcsOWM1YmMxOTVlNmUxMmE3MWE5M2I5NzQ3YWNmZmJiNmM2MDdlZjM4NmNkNmQ5ZDUxNzVmNzgzNTVjMzk2ODg4Mw==/vxfmt=hls/h_99e4bd3044936293981836c1d56e0aec/var3950000/playlist.m3u8
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:0 tvg-country="Argentina" tvg-logo="https://rndserv.xyz/img/encuentro.png" group-title="",Canal Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
@@ -57,17 +57,20 @@ http://186.3.76.238:8000/play/a0c3/index.m3u8
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/cnn.png" group-title="Noticias",CNN en Español
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35181
 
+#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/cnn.png" group-title="Noticias",CNN en Español
+https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist_1024x576.m3u8
+
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/univision.png" group-title="Latino",Univisión
 https://v-px.mybtv.net/live/28.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/ae.png" group-title="",A&E
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=652105899&_cdn_timestamp=1679449006&_cdn_token=f6e1860b4fa6e243ccffb1aa2f443abfbef02bc2
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=666796283&_cdn_timestamp=1680127139&_cdn_token=abf10db172c90fc0f43dda377eda9d530fac2a08
  
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/amc.png" group-title="",AMC
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=652106923&_cdn_timestamp=1679449026&_cdn_token=d40892761f8c5b87da7c6508c0fc61b04dd823a9
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=666796435&_cdn_timestamp=1680127147&_cdn_token=95d70c986332e628b0e28f35894cae0dcba8ef48
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/syfy.png" group-title="",SYFY
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=652116923&_cdn_timestamp=1679449213&_cdn_token=fb8f6211d0887a669c385bc8aa8571d7eccd9782
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=666803939&_cdn_timestamp=1680127431&_cdn_token=04ea9fe0aa131d0f107b378ad6ab8dfb9d3f6080
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/hbo.png" group-title="",HBO
 http://181.189.243.254:8000/play/a0or/index.m3u8
@@ -88,28 +91,22 @@ http://181.189.243.254:8000/play/a0ov/index.m3u8
 http://45.179.164.9:8000/play/a032/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/disney.png" group-title="",Disney Channel
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=652131467&_cdn_timestamp=1679449471&_cdn_token=9ca9a020170c5aa47319a112cf1e9b03ae371d94
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=666810171&_cdn_timestamp=1680127757&_cdn_token=9e9889e925f07a2292ee09d69611f7fa6e9a9c0e
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/rt.png" group-title="Noticias",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/filmarts.png" group-title="",Film & Arts
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=652148283&_cdn_timestamp=1679449756&_cdn_token=b4297a1669aea38f9bdc3a8390ebdb71355b6b21
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=666816523&_cdn_timestamp=1680128091&_cdn_token=da09f74520b7a4e095fbd9fec8cdd26daaac213a
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://megatelevisionhd.com/img/logo_canal/Discovery_H&H.png" group-title="",Discovery Home & Health
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=652155723&_cdn_timestamp=1679449859&_cdn_token=ca3b3e601593aec7428255f9772681ea5084dcf2
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=666818571&_cdn_timestamp=1680128198&_cdn_token=ece5cbee820852a23bc734a8d3cc06ed6b801d63
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="Deportes",ESPN
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=652162379&_cdn_timestamp=1679449958&_cdn_token=8aec7557dd7a13a8f3d74962dba41d586148770e
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="Deportes",ESPN 2
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=652162747&_cdn_timestamp=1679449966&_cdn_token=473e2913154e3192027485b0d9532f4f82884dee
-
-#EXTINF:0 tvg-country="USA" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="Deportes",ESPN 3
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=652164043&_cdn_timestamp=1679449990&_cdn_token=4f6564a8f83945607a15e721deb0c5a6033d7e97
-
-#EXTINF:0 tvg-country="USA" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title="Deportes",ESPN 4
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=652165427&_cdn_timestamp=1679450023&_cdn_token=f41fecf6c5741b59c2f834024482de6a102f458e
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://tntsports.com.ar/__export/1610632360826/sites/tntsports/arte/logo_20210114.svg" group-title="Deportes",TNT Sports
 http://181.39.202.98:9993/play/a169/index.m3u8
@@ -117,33 +114,32 @@ http://181.39.202.98:9993/play/a169/index.m3u8
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/bein.png" group-title="Deportes",BeIN Sports Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
-
 #EXTINF:0 tvg-country="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="Música",Telehit
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEHITLATINO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEHITLATINO_stream_jm&_cdn_session=652174923&_cdn_timestamp=1679450247&_cdn_token=42d78655bef1b254ba7f36a5d1f93ef3a701dfb1
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEHITLATINO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEHITLATINO_stream_jm&_cdn_session=666830763&_cdn_timestamp=1680128863&_cdn_token=5f0cdce723607f010cec6ca54d3d886147df41cd
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/discovery.png" group-title="Documentales",Discovery Channel
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=652177147&_cdn_timestamp=1679450301&_cdn_token=c06ee898f1fd43aff180e5717117774cdf7cc778
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=666833995&_cdn_timestamp=1680129088&_cdn_token=f82892c9fc679c42eb3bbbf84492079b3ff54ec1
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/discovery.png" group-title="Documentales",Discovery Science
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=657651939&_cdn_timestamp=1679690370&_cdn_token=607b33bb11ff4d93e1adaafdc53f84c6afb2ffe3
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=666832995&_cdn_timestamp=1680129022&_cdn_token=45dde7ae5ad1ed201f5c626300bc10eac37b7620
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/animal.png" group-title="Documentales",Animal Planet
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=652181891&_cdn_timestamp=1679450382&_cdn_token=e3af791f73c0643b6d8f4cdc53a448ff7622c15d
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=666835595&_cdn_timestamp=1680129148&_cdn_token=6cefd1b5edd27640128121571707eac6aaa9cb27
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/natgeo.png" group-title="Documentales",National Geographic
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NATGEO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_session=652182995&_cdn_timestamp=1679450405&_cdn_token=669fbde048f9a61d8749dca484887c22e6109e11
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NATGEO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_session=666835803&_cdn_timestamp=1680129155&_cdn_token=139b1f607ba9aec1d9e2b54fcff5fb37aad8dec7
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/history.png" group-title="Documentales",History
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_session=652184331&_cdn_timestamp=1679450430&_cdn_token=14654735f9755112adcf8c5b13b1f499ca5c953a
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_session=666836163&_cdn_timestamp=1680129171&_cdn_token=684bc53380977f588ca32ab823ca31d8660b02c6
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/history.png" group-title="Documentales",History 2
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=652184811&_cdn_timestamp=1679450438&_cdn_token=593a2dd383b6d7baa08c68de4a28eb02d6a37658
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=666837147&_cdn_timestamp=1680129239&_cdn_token=c9cb53b20a5b6800bc6136d274ce2ee06df1b5ba
 
 #EXTINF:0 tvg-country="" tvg-logo="https://www.tudn.com/_next/static/images/tudn-logo.41042bdbba80980634116fb7d7007027.svg" group-title="Deportes",TUDN
 http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/304510.m3u8
 
 #EXTINF:0 tvg-country="" tvg-logo="https://dominio.beauty/img/e.png" group-title="",E!
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=652152579&_cdn_timestamp=1679449805&_cdn_token=94eb79c5ddb3e6415ec4249a9d8ea9b04ba6b1e6
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=666817803&_cdn_timestamp=1680128154&_cdn_token=c635aac846419ddbfbcfbf8fc046a938bdcbdb97
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_UniM%C3%A1s.svg" group-title="Latino",UniMás
 https://v-la.mybtv.net/live/168.m3u8
@@ -154,29 +150,14 @@ https://v-px.mybtv.net/live/45.m3u8
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/univision.png" group-title="Latino",Univisión
 https://v-px.mybtv.net/live/28.m3u8
 
-#EXTINF:0 tvg-country="Uruguay" tvg-logo="https://dominio.beauty/img/teledoce.png" group-title="",Teledoce
-http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/304347.m3u8
-
-#EXTINF:0 tvg-country="Uruguay" tvg-logo="https://www.tvciudad.uy/wp-content/uploads/2020/04/tvciudad-logo.svg" group-title="",TvCiudad
-https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjc5MjczODA0JnJhbmRvbT10NkhCYkk5bGFFJmMtaXA9MTY3LjU2LjEyNS4xMzQmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMjgwJnB1YmxpY19pZD0yc2dzbSw0NWEyMTViZWU4NTAxOTY1MWU2MDE4NWI4MGIzOWU4MGI3MmRiMWRlMmI5NzYyODdiOWEzMjMzMjNjMDRmMjZm/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8
-
 #EXTINF:0 tvg-country="España" tvg-logo="https://rndserv.xyz/img/antena3.png" group-title="",Antena 3
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANTENA3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANTENA3_stream_9o&_cdn_session=652206531&_cdn_timestamp=1679450719&_cdn_token=a6876a873b2a16a34c812f25823652531d1a97e8
-
-#EXTINF:0 tvg-country="España" tvg-logo="https://dominio.beauty/img/cuatro.png" group-title="",Cuatro
-http://51.158.36.81:18000/Cuatro/hls/playlist.m3u8
-
-#EXTINF:0 tvg-country="España" tvg-logo="https://dominio.beauty/img/telecinco.png" group-title="",Telecinco
-http://51.158.36.81:18000/Telecinco/hls/playlist.m3u8
-
-#EXTINF:0 tvg-country="España" tvg-logo="https://dominio.beauty/img/lasexta.png" group-title="",La sexta
-http://51.158.36.81:18000/La_Sexta/hls/playlist.m3u8
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANTENA3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANTENA3_stream_9o&_cdn_session=666841723&_cdn_timestamp=1680129511&_cdn_token=ff3c8e0faaae040e0087a78b2b19a9af96757965
 
 #EXTINF:0 tvg-country="" tvg-logo="https://dominio.beauty/img/18.png" group-title="Adultos",Adult Gay
 http://cdn.adultiptv.net/gay.m3u8
 
 #EXTINF:0 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="",AXN
-http://51.158.36.81:18000/AXN/hls/playlist.m3u8
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=666797699&_cdn_timestamp=1680127184&_cdn_token=ab783bf8d2b443ab616648caba4dfb4721275a1b
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="Deportes",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -186,18 +167,3 @@ https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://dominio.beauty/img/space.png" group-title="",Space
 http://45.160.15.130:2909/play/119
-
-#EXTINF:0 tvg-country="México" tvg-logo="" group-title="Deportes",Imagen TV
-http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302675.m3u8
-
-#EXTINF:0 tvg-country="Venezuela" tvg-logo="" group-title="Deportes",Venevisión
-http://45.179.164.9:8000/play/a00h/index.m3u8
-
-#EXTINF:0 tvg-country="Venezuela" tvg-logo="" group-title="Deportes",Tigo Sports
-http://181.78.105.146:8000/play/a05x
-
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Deportes | USA
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/200284
-
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA HD" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Deportes | USA HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/10928
