@@ -90,7 +90,7 @@ http://181.189.243.254:8000/play/a0ov/index.m3u8
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/tnt.png" group-title="",TNT
 http://45.179.164.9:8000/play/a032/index.m3u8
 
-#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/tnt.png" group-title="",TNT Series
+#EXTINF:0 tvg-country="USA" tvg-logo="https://gabrielcarp9.github.io/imagenes/canales/tntseries.png" group-title="",TNT Series
 http://45.160.12.253:8000/play/108
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/disney.png" group-title="",Disney Channel
