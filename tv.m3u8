@@ -75,7 +75,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/hbo.png" group-title="",HBO
 http://181.189.243.254:8000/play/a0or/index.m3u8
 
-#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/hbo.png" group-title="",HBO 2
+#EXTINF:0 tvg-country="USA" tvg-logo="https://gabrielcarp9.github.io/imagenes/canales/hbo2.png" group-title="",HBO 2
 http://181.189.243.254:8000/play/a0os/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://megatelevisionhd.com/img/logo_canal/HBO_Plus.png" group-title="",HBO Plus
@@ -84,7 +84,7 @@ http://181.189.243.254:8000/play/a0ot/index.m3u8
 #EXTINF:0 tvg-country="USA" tvg-logo="https://megatelevisionhd.com/img/logo_canal/HBO_Family.png" group-title="",HBO Family
 http://181.189.243.254:8000/play/a0ou/index.m3u8
 
-#EXTINF:0 tvg-country="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="",HBO Xtreme
+#EXTINF:0 tvg-country="USA" tvg-logo="https://gabrielcarp9.github.io/imagenes/canales/hboxtreme.png" group-title="",HBO Xtreme
 http://181.189.243.254:8000/play/a0ov/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/tnt.png" group-title="",TNT
@@ -135,7 +135,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NATGEO/40-hls/live-media.m3u8
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/history.png" group-title="Documentales",History
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_session=694648275&_cdn_timestamp=1681141694&_cdn_token=eaab7baeedcdf99838855a18f09386d783b5660e
 
-#EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/history.png" group-title="Documentales",History 2
+#EXTINF:0 tvg-country="USA" tvg-logo="https://gabrielcarp9.github.io/imagenes/canales/history2.png" group-title="Documentales",History 2
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=694648507&_cdn_timestamp=1681141709&_cdn_token=60b1fa1ee93189e68a27068c616222fabd9ebec7
 
 #EXTINF:0 tvg-country="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png" group-title="Deportes",TUDN
