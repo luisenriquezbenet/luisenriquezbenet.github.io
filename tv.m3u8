@@ -57,6 +57,9 @@ http://190.43.92.49:8000/play/a0op/index.m3u8
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/cnn.png" group-title="Noticias",CNN en Español
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35181
 
+#EXTINF:0 tvg-country="USA" tvg-logo="https://www.cnnchile.com/_templates/desktop/includes/img/logo-cnn.png" group-title="Noticias",CNN Chile
+http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/5.m3u8
+
 #EXTINF:0 tvg-country="USA" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/09282022/CNN-Replay-(Rev_08.24.22)_190x190_circle.png" group-title="Noticias",CNN en Español RePlay
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist_1024x576.m3u8
 
