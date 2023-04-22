@@ -185,3 +185,6 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://dominio.beauty/img/htv_us.png" group-title="Música",HTV
 http://abc123.digital:8080/live/Jones112b@msn.com/NmI7NaNqW8/495357.m3u8
+
+#EXTINF:0 tvg-country="USA" tvg-logo="https://play.americanomedia.com/assets/images/logo.png" group-title="Noticias",Americano Media
+https://streannliveus.cachefly.net/Protected/sp=1;dirmatch=true/5ae694d31e736dd0af2737cc9a2cc6c7970eaf0c2046d6182ee24b4f276510e5/americanomedialive/americanomedialive/chunks.m3u8
