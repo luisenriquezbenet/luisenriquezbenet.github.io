@@ -76,19 +76,19 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMC/40-hls/live-media.m3u8?_c
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=733369779&_cdn_timestamp=1682391045&_cdn_token=66a40f01e90f93b619bdda3126f578b0011ad14c
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/hbo.png" group-title="",HBO
-http://hidra.live:80/ypamzjtt/xY2597mnGj/34881
+http://181.189.243.254:8000/play/a0or/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://gabrielcarp9.github.io/imagenes/canales/hbo2.png" group-title="",HBO 2
-http://hidra.live:80/ypamzjtt/xY2597mnGj/34890
+http://181.189.243.254:8000/play/a0os/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://megatelevisionhd.com/img/logo_canal/HBO_Plus.png" group-title="",HBO Plus
-http://hidra.live:80/ypamzjtt/xY2597mnGj/34892
+http://181.189.243.254:8000/play/a0ot/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://megatelevisionhd.com/img/logo_canal/HBO_Family.png" group-title="",HBO Family
-http://hidra.live:80/ypamzjtt/xY2597mnGj/34895
+http://181.189.243.254:8000/play/a0ou/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://gabrielcarp9.github.io/imagenes/canales/hboxtreme.png" group-title="",HBO Xtreme
-http://hidra.live:80/ypamzjtt/xY2597mnGj/312770
+http://181.189.243.254:8000/play/a0ov/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/tnt.png" group-title="",TNT
 http://181.189.243.254:8000/play/a0sq/index.m3u8
