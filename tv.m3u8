@@ -55,7 +55,7 @@ http://45.190.13.50:8002/play/a00u/index.m3u8
 http://170.254.234.244:8000/play/a01e/index.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/cnn.png" group-title="Noticias",CNN en Español
-http://181.189.243.254:8000/play/a0ps/index.m3u8
+http://tutv.online:2080/Vincent2022/5WedDRHBF5pc/50528
 
 #EXTINF:0 tvg-country="Brasil" tvg-logo="https://set.org.br/wp-content/uploads/2022/10/CNN-Brasil-1100x1100.png" group-title="Noticias",CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
