@@ -201,3 +201,5 @@ https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-0 tvg-country="México" tvg-logo="https://dominio.beauty/img/azteca.png" group-title="Entretenimiento",Tv Azteca Mundo
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZMUNDO_stream_6q&_cdn_session=756885643&_cdn_timestamp=1682993416&_cdn_token=bf0d6ddc9ffb1372a20cb9079534f48cf716569c
 
+#EXTINF:0 tvg-country="USA" tvg-logo="https://brandslogos.com/wp-content/uploads/images/food-network-logo.png" group-title="Cocina",Food Network
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=756891659&_cdn_timestamp=1682993494&_cdn_token=a12e93e0ceef1fc897222511a06d6d2fc2b41768
