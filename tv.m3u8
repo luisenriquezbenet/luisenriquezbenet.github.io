@@ -64,7 +64,7 @@ http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/univision.png" group-title="Latino",Univisión
-http://181.189.243.254:8000/play/a0v0/index.m3u8
+http://fastvplayer.com:8080/play/NU0inoAimjVq3qK7h0bXR55XL8YLtOh9VCIlKGlubOHJe6G4wC4o3pWG8R6A_kYP/ts
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://rndserv.xyz/img/ae.png" group-title="Películas",A&E
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=789575627&_cdn_timestamp=1683786830&_cdn_token=0cd6b40f824c14f5af46df892ebdb1bf34193dd1
