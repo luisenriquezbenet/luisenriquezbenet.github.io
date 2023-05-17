@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:
+URI="https://edge-live01-bel.cvattv.com.ar/key/98997a7020c18cb28174a2490147830a.key"
+IV="https://edge-live01-bel.cvattv.com.ar/iv/0b20ed9da0e5457c9dfd3ae0b6092491.iv"
+#EXTINF:10,
+https://edge-live01-bel.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol-avc1_2499968=10007-scale=30000-7926541246743.mp4
+#EXT-X-MPD
+URI="https://edge-live01-bel.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd"
