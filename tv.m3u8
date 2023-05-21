@@ -198,7 +198,7 @@ https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="España",Star TVE HD
 http://181.189.243.254:8000/play/a0qf/index.m3u8
 
-#EXTINF:-0 tvg-logo="http://kiubo.biz:25461/images/mg9e4VnU5MiobcDarwnBsSPvis2-gVdIMvpGnRfAS_0.png" group-title="Cuba",CUBAMAX
+#EXTINF:-0 tvg-logo="https://luisenriquezbenet.github.io/CubaMax_TV.png" group-title="Cuba",CUBAMAX
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/283351
 
 #EXTINF:0 tvg-country="Uruguay" tvg-logo="https://dominio.beauty/img/canal4_uy.png" group-title="Uruguay",Canal 4
