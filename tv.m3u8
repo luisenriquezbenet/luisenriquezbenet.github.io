@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/xml/68m7n42vk2c4ed25n1ge"
+#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n42vk2c4ed25n1ge"
 #EXTINF:-1 tvg-id="WeatherChannelEspanol(Spanish).us" tvg-name="Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123478_dark_360w_270h.png" group-title="Noticias" tvg-shift="-3",Weather Channel
 https://linear-431.frequency.stream/431/hls/master/playlist_1024x576.m3u8
 #EXTINF:-1 tvg-id="Canal24H.es" tvg-name="24h" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90353_dark_360w_270h.png" group-title="Noticias" tvg-shift="-3",24h
@@ -14,13 +14,13 @@ https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 tvg-id="France24Espanol(English).co" tvg-name="France 24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105780_dark_360w_270h.png" group-title="Noticias" tvg-shift="-3",France 24
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="CNNEnEspanol(Spanish).us" tvg-name="CNN en Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58631_dark_360w_270h.png" group-title="Noticias" tvg-shift="-3",CNN en Español
-http://fastvplayer.com:8080/play/NU0inoAimjVq3qK7h0bXR3Y5BCxPqYAOpDMmY9qIYjX9Vbgf46X0kgReMn_VNfC2/ts
+http://gazytv.com:8880/live/ZzPiurano$S/WQf8ujuQBUzw/735.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN en Español RePlay" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/09282022/CNN-Replay-(Rev_08.24.22)_190x190_circle.png" group-title="Noticias" tvg-shift="-3",CNN en Español RePlay
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist_1024x576.m3u8
 #EXTINF:-1 tvg-id="RussiaToday(src04).za" tvg-name="RT Noticias" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EVE.png" group-title="Noticias" tvg-shift="-3",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="N+ Media" tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="Noticias" tvg-shift="-3",N+ Media
-https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
+https://channel04dai-notusa.akamaized.net/linear/hls/pa/event/3UsAIXvJTlG81i3EGHF8ZA/stream/fed2acf5-4207-4797-ad4f-c4d20346ea20:SCL/variant/a7a6d2c8940398ec2b328cf89523ba8f/bandwidth/1087111.m3u8?hdntl=exp=1687993318~acl=*~id=24f0f88b-11e2-4ca5-a2e0-de2ad05d5ba6~data=hdntl~hmac=2d7e73164d70d24866d84b36826fa2e0bd0986e4f258eef15ddbb7b4dbc3aa33&
 #EXTINF:-1 tvg-id="CubavisionInternacional.es" tvg-name="Cubavisión" tvg-logo="https://www.cvi.icrt.cu/wp-content/uploads/banners/logo.png" group-title="Noticias" tvg-shift="-3",Cubavisión
 https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Americano Media" tvg-logo="https://play.americanomedia.com/assets/images/logo.png" group-title="Noticias" tvg-shift="-3",Americano Media
@@ -30,7 +30,7 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Latino" tvg-shift="-3",Telemundo
 http://45.190.13.50:8002/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="Univision(Spanish).ca" tvg-name="Univisión" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88279_dark_360w_270h.png" group-title="Latino" tvg-shift="-3",Univisión
-http://181.189.243.254:8000/play/a0v0/index.m3u8
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/203249.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCN" tvg-logo="https://dominio.beauty/img/rcn.png" group-title="Latino" tvg-shift="-3",RCN
 http://magmas5.com:8000/Oscar86/40473/153615
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCN+" tvg-logo="https://dominio.beauty/img/rcn.png" group-title="Latino" tvg-shift="-3",RCN+
@@ -42,7 +42,7 @@ https://server40.servistreaming.com:3477/stream/play.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Latino" tvg-logo="https://rndserv.xyz/img/vevo.png" group-title="Música" tvg-shift="-3",Vevo Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Telehit(Spanish).us" tvg-name="Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="Música" tvg-shift="-3",Telehit
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEHITLATINO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEHITLATINO_stream_jm&_cdn_session=865007275&_cdn_timestamp=1686191269&_cdn_token=ef5def4369899f158782bb8678d0e37a9798256e
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/111816.ts
 #EXTINF:-1 tvg-id="HTV.ar" tvg-name="HTV" tvg-logo="https://dominio.beauty/img/htv_us.png" group-title="Música" tvg-shift="-3",HTV
 http://177.93.48.30:8550/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEC TV" tvg-logo="https://i.imgur.com/i1x1zzn.png" group-title="Documentales" tvg-shift="-3",TEC TV
@@ -58,7 +58,7 @@ http://45.232.210.1:47000/play/a05a
 #EXTINF:-1 tvg-id="History.ar" tvg-name="History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="Documentales" tvg-shift="-3",History
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125925.ts
 #EXTINF:-1 tvg-id="History2.ar" tvg-name="History 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="Documentales" tvg-shift="-3",History 2
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=865016139&_cdn_timestamp=1686191439&_cdn_token=9427292aa08158aa298be8672ecfd3deabb61721
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102126.ts
 #EXTINF:-1 tvg-id="CGTNEspanol.ar" tvg-name="CGTN E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44479_dark_360w_270h.png" group-title="(no group)" tvg-shift="-3",CGTN E
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV Public" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12553_dark_360w_270h.png" group-title="(no group)" tvg-shift="-3",NASA TV Public
@@ -70,11 +70,9 @@ http://181.189.243.254:8000/play/a0ou/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.ar" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24424_dark_360w_270h.png" group-title="(no group)" tvg-shift="-3",Discovery Home & Health
 http://45.232.210.1:47000/play/a0al
 #EXTINF:-1 tvg-id="EEntertainmentTelevision.co" tvg-name="E!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="(no group)" tvg-shift="-3",E!
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=883469075&_cdn_timestamp=1686840733&_cdn_token=6cc148c6fc18f790ce6928fd8cf931439114d9f8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=918047691&_cdn_timestamp=1687993226&_cdn_token=96b1cb4de1a3ad8eecc36cc9edf5a284ce468903
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91176_dark_360w_270h.png" group-title="(no group)" tvg-shift="-3",Antena 3
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ANTENA3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANTENA3_stream_9o&_cdn_session=883502187&_cdn_timestamp=1686842173&_cdn_token=3fc76bceb9084938ff147d6379aa8bdf76ba5fee
-#EXTINF:-1 tvg-id="TvPublica.ar" tvg-name="TV Pública" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="(no group)" tvg-shift="-3",TV Pública
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANTENA3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANTENA3_stream_9o&_cdn_session=918075683&_cdn_timestamp=1687994086&_cdn_token=e08f8467f89dee00f2b50a72cb31c2382aaee2ca
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid Tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53930_dark_360w_270h.png" group-title="Deportes" tvg-shift="-3",Real Madrid Tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="Deportes" tvg-shift="-3",TyC Sports
@@ -85,12 +83,8 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167723
 http://kiubo.biz:80/Nicolay@022/Nico@0223/35253.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIRECTV Sports" tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/610.png" group-title="Deportes" tvg-shift="-3",DIRECTV Sports
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167731
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIRECTV Sports" tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/610.png" group-title="Deportes" tvg-shift="-3",DIRECTV Sports
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37843
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIRECTV Sports 2" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png" group-title="Deportes" tvg-shift="-3",DIRECTV Sports 2
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35248.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENTOS UFC" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="Deportes" tvg-shift="-3",EVENTOS UFC
-http://fastvplayer.com:8080/play/NU0inoAimjVq3qK7h0bXR55XL8YLtOh9VCIlKGlubOF0v-YntWxKXj5FXdeU4G7O/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png" group-title="Deportes" tvg-shift="-3",TNT Sports
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120424
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="Deportes" tvg-shift="-3",TUDN
@@ -116,7 +110,7 @@ http://181.189.243.254:8000/play/a0ov/index.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="Películas" tvg-shift="-3",TNT
 http://kiubo.biz:80/Nicolay@022/Nico@0223/102391.ts
 #EXTINF:-1 tvg-id="FilmandArts.ar" tvg-name="Film & Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="Películas" tvg-shift="-3",Film & Arts
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=883467835&_cdn_timestamp=1686840681&_cdn_token=72fac0c0c18eb1d60b7b67be8d5e1a50a6a8083d
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=918045379&_cdn_timestamp=1687993139&_cdn_token=6bc346cfbb6d37ae2ca868fa5ec6a22c4130d4b8
 #EXTINF:-1 tvg-id="AXN(Spanish).de" tvg-name="AXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82178_dark_360w_270h.png" group-title="Películas" tvg-shift="-3",AXN
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/305023
 #EXTINF:-1 tvg-id="Space.ar" tvg-name="Space" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16499_dark_360w_270h.png" group-title="Películas" tvg-shift="-3",Space
