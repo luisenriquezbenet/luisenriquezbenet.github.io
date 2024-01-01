@@ -18,7 +18,7 @@ https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist_1024
 #EXTINF:-1 tvg-id="RussiaToday(src04).za" tvg-name="RT Noticias" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EVE.png" group-title="Noticias" tvg-shift="-3",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="CubavisionInternacional.es" tvg-name="Cubavisión" tvg-logo="https://www.cvi.icrt.cu/wp-content/uploads/banners/logo.png" group-title="Noticias" tvg-shift="-3",Cubavisión
-https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Americano Media" tvg-logo="https://play.americanomedia.com/assets/images/logo.png" group-title="Noticias" tvg-shift="-3",Americano Media
 https://streannliveus.cachefly.net/Protected/sp=1;dirmatch=true/5ae694d31e736dd0af2737cc9a2cc6c7970eaf0c2046d6182ee24b4f276510e5/americanomedialive/americanomedialive/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="America TeVe" tvg-logo="https://rndserv.xyz/img/americateve.png" group-title="Latino" tvg-shift="-3",America TeVe
