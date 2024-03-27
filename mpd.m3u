@@ -143,7 +143,7 @@ https://edge7-ccast-sl.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Thea
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryWorldPanregional.us" tvg-name="Discovery World" audio-track="1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="Documentales",Discovery World
+#EXTINF:-1 tvg-id="DiscoveryWorldPanregional.us" tvg-name="Discovery World" audio-track="1" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/discovery_world.png" group-title="Documentales",Discovery World
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VnV9ZWpperei5eCDtdIbtQ","kid":"NO6UwiYzRfejpZBmEmTkkA"}],"type":"temporary"}
@@ -204,7 +204,7 @@ https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://edge7-ccast-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd
 
-#EXTINF:-1 tvg-id="NickelodeonSouth.us" tvg-name="Nickelodeon" audio-track="1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83626_dark_360w_270h.png" group-title="Infantiles",Nickelodeon
+#EXTINF:-1 tvg-id="NickelodeonSouth.us" tvg-name="Nickelodeon" audio-track="1" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/n/i/nick_sg23_logo_rgb_ea.png" group-title="Infantiles",Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ONb2UMv5o4/Z81wB+Y5keg","kid":"YcGM7+zC0Ge+qp/xgTBTRQ"}],"type":"temporary"}
