@@ -164,12 +164,8 @@ https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
-#EXTINF:-1 tvg-id="Investigation.Discovery.(Argentina).(ID).ar" tvg-name="ID" audio-track="1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Documentales",ID
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZAxJV4BzqRGThhfrTmUtbA","kid":"CVbK8uK9QfSf3OrXzJT"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_2A/ID.mpd
+#EXTINF:-1 tvg-id="Investigation.Discovery.(Argentina).(ID).ar" tvg-name="ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Documentales",ID
+https://bvsat02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
 
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-name="National Geographic" audio-track="1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="Documentales",National Geographic
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -392,12 +388,8 @@ https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
 https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd
 
-#EXTINF:-1 tvg-id="="SyfyPanregional.us" tvg-name="SyFy" audio-track="1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83778_dark_360w_270h.png" group-title="Películas",SyFy
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GNn6zNry0VgH0KP3E+iypA","kid":"nNmcu0ZsQuWzPnou9+LH3w"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd
+#EXTINF:-1 tvg-id="="SyfyPanregional.us" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83778_dark_360w_270h.png" group-title="Películas",SyFy
+https://bvsat02.cdn.rcs.net.ar/mnp/syfy/output.mpd
 
 #EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="TNT" audio-track="1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71148_dark_360w_270h.png" group-title="Películas",TNT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
