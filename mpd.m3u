@@ -480,3 +480,33 @@ https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mp
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="TNTNovelas" tvg-logo="https://i.imgur.com/ZNcRZFb.png" group-title="Novelas",TNT Novelas
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
+https://edge6-ccast-sl.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd
+
+
+#EXTINF:-1 tvg-name="FlowMusic605" tvg-logo="https://i.imgur.com/ZNcRZFb.png" group-title="Música",Flow Music 605
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
+https://edge-mix02-mus.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd
+
+
+#EXTINF:-1 tvg-name="FlowMusic606" tvg-logo="https://i.imgur.com/ZNcRZFb.png" group-title="Música",Flow Music 606
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f34cd7709f093d23d4db009107d96862:d8a829138d970b45e867c9733a31b2f0
+https://edge-vod04-hr.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd
+
+
+#EXTINF:-1 tvg-name="FlowMusic607" tvg-logo="https://i.imgur.com/ZNcRZFb.png" group-title="Música",Flow Music 607
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
+https://edge-mix04-coe.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd
+
+
+#EXTINF:-1 tvg-name="Dreamworks" audio-track="1" tvg-logo="https://i.imgur.com/Socesag.png" group-title="Películas",Dreamworks
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
+https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd
