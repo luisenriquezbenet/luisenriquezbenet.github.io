@@ -493,15 +493,15 @@ https://edge6-ccast-sl.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd
 #KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
 https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GBn42Uk.png" tvg-group="Noticias",RT Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GBn42Uk.png" group-title="Noticias",RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe49940345dd5e40be8f6c163a088aff:12f97786894be0ff0ab9899261935a82
-#EXTINF:-1 tvg-chno="819" tvg-id="" tvg-logo="https://i.ibb.co/s68CvW1/DNews-2023.png" tvg-group="Mundo", DNews
+#EXTINF:-1 tvg-chno="819" tvg-id="" tvg-logo="https://i.ibb.co/s68CvW1/DNews-2023.png" group-title="Noticias", DNews
 https://1264-test-midroll-abc-da-bpk.dtvott.com/f9028faec74be6eca4ebe89713844c93/dtv-tv/dash_live_1264/manifest.mpd
 
-#EXTINF:-1, tvg-name="Eventos" tvg-group="Uruguay", Eventos 1
+#EXTINF:-1, tvg-name="Eventos" group-title="Uruguay", Eventos 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
