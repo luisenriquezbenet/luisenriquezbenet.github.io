@@ -496,9 +496,9 @@ https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamwor
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GBn42Uk.png" tvg-group="Noticias",RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s68CvW1/DNews-2023.png" tvg-group="noticias", DNews
-KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe49940345dd5e40be8f6c163a088aff:12f97786894be0ff0ab9899261935a82
+#EXTINF:-1 tvg-chno="819" tvg-id="" tvg-logo="https://i.ibb.co/s68CvW1/DNews-2023.png" tvg-group="Mundo", DNews
 https://1264-test-midroll-abc-da-bpk.dtvott.com/f9028faec74be6eca4ebe89713844c93/dtv-tv/dash_live_1264/manifest.mpd
 
 #EXTINF:-1, tvg-name="Eventos" tvg-group="Uruguay", Eventos 1
