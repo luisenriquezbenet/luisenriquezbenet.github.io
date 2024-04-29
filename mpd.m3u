@@ -505,3 +505,14 @@ https://1264-test-midroll-abc-da-bpk.dtvott.com/f9028faec74be6eca4ebe89713844c93
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd
+
+#EXTINF:-1 tvg-id="PrensaLatinaTV.cu" tvg-name="Prensa Latina TV" tvg-logo="https://media.prensa-latina.cu/wp-content/uploads/2023/09/identificador_negro-horizontal.png" group-title="Cuba",Prensa latina TV
+https://eu1.servers10.com:8081/8192/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us",Radio y Televisión Martí (720p)
+#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us" tvg-name="Radio y Televisión Martí" tvg-logo="" group-title="Cuba",TV Martí
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cubavision.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cvinternacional.png" group-title="Cuba" tvg-name="Cubavisión",Cubavisión Internacional
+#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
