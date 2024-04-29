@@ -243,13 +243,6 @@ https://edge7-ccast-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hi
 #EXTINF:-1 tvg-id="Canal24Horas.es" tvg-name="Canal 24 Horas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20742_dark_360w_270h.png" group-title="Noticias",Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVisión" tvg-logo="https://i.imgur.com/GAsSUqn.png" group-title="Noticias",ChileVisión
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{ "kty":"oct", "k":"vnhtlAZiC722RHwO1mgj2A", "kid":"RJXDIrEYUvqb0hz1eG/UUA" },{ "kty":"oct", "k":"vOKaMAZfbPK1ujRa7VLNnQ", "kid":"T1s2ohNOW+yoVCVeQaTJnQ" },{ "kty":"oct", "k":"1RohPT4tpTzKgrv54Leg4w", "kid":"Z9gxnEHeWJ+D0jZ8qBQmdQ" }], "type":"temporary"}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvup-ccpv2-live.secure2.footprint.net/chilevisionhd/chilevisionhd.mpd
-
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="Noticias",CNN en Español
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
