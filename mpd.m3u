@@ -260,7 +260,7 @@ https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_E
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105780_dark_360w_270h.png" group-title="Noticias",France 24 Español
-https://propropen.000webhostapp.com/tutuv.php?v=Y-IlMeCCtIg
+https://ythls-v2.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-id="LNPlus.ar" tvg-name="LN+" audio-track="1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101238_dark_360w_270h.png" group-title="Noticias",LN+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -515,3 +515,6 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 #EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cvinternacional.png" group-title="Cuba" tvg-name="Cubavisión",Cubavisión Internacional
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="telemundo51" tvg-logo="https://media.telemundo51.com/2022/08/Telemundo-Miami.png?fit=304%2C100&quality=85&strip=all&w=122&h=40" group-title="Noticias" tvg-name="Telemundo 51",Telemundo 51
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
