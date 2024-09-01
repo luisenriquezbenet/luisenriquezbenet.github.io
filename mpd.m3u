@@ -248,7 +248,9 @@ https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_E
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105780_dark_360w_270h.png" group-title="Noticias",France 24 Español
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8a3d29db38c4a9fa9a838c3d4d681db:d3aa374c4c0de33f463b4387a18297a6
+https://edge-mix02-mun.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd
 
 #EXTINF:-1 tvg-id="LNPlus.ar" tvg-name="LN+" audio-track="1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101238_dark_360w_270h.png" group-title="Noticias",LN+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
