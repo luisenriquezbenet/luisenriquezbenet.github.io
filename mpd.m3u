@@ -122,8 +122,8 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/Dis
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="Discovery H&H" audio-track="1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24424_dark_360w_270h.png" group-title="Documentales",Discovery H&H
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b0a76dd7a0df1e1b4320aeb1254d1a9:0c3cdc1b3e4617c57361265e9fa4c5bd
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=9b0a76dd7a0df1e1b4320aeb1254d1a9:d011267775c38d6d2ab09b428c03d63f
+https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd
 
 #EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-name="Discovery Kids" audio-track="1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="Documentales",Discovery Kids
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
