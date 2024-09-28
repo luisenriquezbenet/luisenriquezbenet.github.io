@@ -93,14 +93,6 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/F
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://edge-live01-bel.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="Deportes",TUDN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
-https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
-
-
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="Deportes",TyC Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -297,8 +289,8 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" audio-track="1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Cine y Series",Golden Premier
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34fa35c8323c11cbb83cb381be55bd64:02ccc6ae07d997bdbd8b97865d69bb35
-https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=b7d085dbd4539afcc6a55445efb2b04e:0a55fbe044fed379d1632b589265b571
+https://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd
 
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO" audio-track="1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="Cine y Series",HBO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -378,8 +370,11 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd
 
-#EXTINF:-1 tvg-id="="SyfySouth.us" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83778_dark_360w_270h.png" group-title="Cine y Series",SyFy
-https://bvsat02.cdn.rcs.net.ar/mnp/syfy/output.mpd
+#EXTINF:-1 tvg-id="usa" tvg-name="USA" audio-track="1" tvg-logo="https://www.usanetwork.com/generetic/generated/images/22cb4c7e029716aa34d858d6f9fb18f3.png" group-title="Cine y Series",USA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c754b522b3b87dc2ba2da3e35154ec14:141a51e9e83861ae99b4b217431710b3
+https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd
 
 #EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="TNT" audio-track="1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71148_dark_360w_270h.png" group-title="Cine y Series",TNT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -424,7 +419,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Can
 #KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
 https://edge-live16-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd
 
-#EXTINF:-1 tvg-id="Canal5.uy" tvg-name="Canal 5" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_07/large.629991004_915sinttulo_20210722205247.png.39027283b2e2dc99ee2709c6cc46419d.png" group-title="Uruguay",Canal 5
+#EXTINF:-1 tvg-id="Canal5.uy" tvg-name="Canal 5" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_07/large.1218322618_914sinttulo_20210722203530.png.8195525ee24d262c9956adb592c8635b.png" group-title="Uruguay",Canal 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lgOPdqK6M4ZupU60smBXPw","kid":"xQUY1/WfTAqpowef4rAU/Q"}],"type":"temporary"}
@@ -474,13 +469,29 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd
 #KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd
 
+#EXTINF:-1 tvg-name="dhe" audio-track="1" tvg-logo="https://canaldhe.com/wp-content/uploads/2019/09/logo-7-11.png" group-title="Cine y Series",DHE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff800156f81f70c687eccaadedc2ca15:937ba1301e27008b34d02b9d8a31a0db
+https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd
+
 #EXTINF:-1 tvg-id="RTenEspanol.ru” tvg-logo="https://i.imgur.com/GBn42Uk.png" group-title="Noticias",RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dnews.ar" tvg-logo="https://i.ibb.co/s68CvW1/DNews-2023.png" group-title="Noticias",DNews
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe49940345dd5e40be8f6c163a088aff:12f97786894be0ff0ab9899261935a82
-https://1264-test-midroll-abc-da-bpk.dtvott.com/f9028faec74be6eca4ebe89713844c93/dtv-tv/dash_live_1264/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=21563d82cfb7fdd18b213f0bd92a274f:5940d8d0b57b9e6533e99cc0e7bf2f8e
+https://chromecast.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd
+
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EURON.png?raw=true" group-title="Noticias",Euronews
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d86b0f56d32f45adb0a6b4e488c8f0c2:e4f180b0e61be3e80ab602df5e56ff3f
+https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd
+
+#EXTINF:-1 tvg-id="sunchannel" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_65257.png.f056a600d182fe0390e7fee0fb039ffb.png" group-title="Documentales",SUN Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=158177692aa3463eae5f4e1f72403e9c:1c6c026fba9cf7ecb576c7bedce0ead4
+https://chromecast.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_2A/Sun_Channel.mpd
 
 #EXTINF:-1, tvg-name="Eventos" group-title="Uruguay", Eventos 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -491,10 +502,6 @@ https://edge-live31-hr.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/E
 #EXTINF:-1 tvg-id="PrensaLatinaTV.cu" tvg-name="Prensa Latina TV" tvg-logo="https://media.prensa-latina.cu/wp-content/uploads/2023/09/identificador_negro-horizontal.png" group-title="Cuba",Prensa latina TV
 https://eu1.servers10.com:8081/8192/index.m3u8
 
-#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us",Radio y Televisión Martí (720p)
-#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us" tvg-name="Radio y Televisión Martí" tvg-logo="" group-title="Cuba",TV Martí
-https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cvinternacional.png" group-title="Cuba" tvg-name="Cubavisión",Cubavisión Internacional
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
@@ -502,23 +509,29 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #EXTINF:-1 tvg-id="telemundo51" tvg-logo="https://media.telemundo51.com/2022/08/Telemundo-Miami.png?fit=304%2C100&quality=85&strip=all&w=122&h=40" group-title="Noticias" tvg-name="Telemundo 51",Telemundo 51
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
-#EXTINF:-1 tvg-id="Flow Music" tvg-name="Flow Music" audio-track="1" tvg-logo="" group-title="Música",Flow Music
+#EXTINF:-1 tvg-id="Flow Music" tvg-name="Flow Music" audio-track="1" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Música",Flow Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd
 
-#EXTINF:-1 tvg-id="Flow Music 1" tvg-name="Flow Music 1" audio-track="1" tvg-logo="" group-title="Música",Flow Music 1
+#EXTINF:-1 tvg-id="Flow Music 1" tvg-name="Flow Music 1" audio-track="1" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Música",Flow Music 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f34cd7709f093d23d4db009107d96862:d8a829138d970b45e867c9733a31b2f0
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd
 
-#EXTINF:-1 tvg-id="Flow Music 2" tvg-name="Flow Music 2" audio-track="1" tvg-logo="" group-title="Música",Flow Music 2
+#EXTINF:-1 tvg-id="Flow Music 2" tvg-name="Flow Music 2" audio-track="1" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Música",Flow Music 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd
+
+#EXTINF:-1 tvg-id="AllegroHD" tvg-name="AllegroHD" audio-track="1" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11214_7_189898.png.0304fc0120ecf5e9f6b3b1e7773259d7.png" group-title="Música",AllegroHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2
+https://chromecast.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd
 
 #EXTINF:-1 tvg-id="eentertainment” tvg-name="E! Entertainment" tvg-logo="https://i.imgur.com/ZNcRZFb.png" group-title="Cine y Series",E! Entertainment
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -526,14 +539,8 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Fl
 #KODIPROP:inputstream.adaptive.license_key=5883553207f13e3dc8cecd1113d5ba68:45434d40636dfa0e5312b93218e02185
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" audio-track="1" tvg-logo="" group-title="Cine y Series",A&E
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" audio-track="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="Cine y Series",A&E
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
-
-#EXTINF:-1 tvg-id="Rai" tvg-name="Rai" audio-track="1" tvg-logo="" group-title="Música",Rai
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d214547d7d9a4011a39a899ce6e70071:16c2ed0617cf1e123f3af6ea8875a82d
-https://edge-live16-sl.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd
