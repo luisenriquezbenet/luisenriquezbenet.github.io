@@ -30,7 +30,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet
 #KODIPROP:inputstream.adaptive.license_key=6ca0fbad21a0e908c0280dcc27e6ee0e:62670eedbafdf9360b4ecaed738e26cd
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd
 
-#EXTINF:-1 tvg-id="DAZN1(src01).es" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/9A63D4g.png" group-title="Deportes",DAZN 1
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/9A63D4g.png" group-title="Deportes",DAZN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RN2c03CwioaOrRFf6E7P3g","k":"v_GasKUc8U6Eg4mxUpE_0A"}]}
@@ -159,7 +159,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/Histo
 #KODIPROP:inputstream.adaptive.license_key=ecbe97ec34784304b390a12ba3854ccf:5a0ee36ed9b8920cb19546fd92f2d415
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd
 
-#EXTINF:-1 tvg-id="Investigation.Discovery.(Argentina).(ID).ar" tvg-name="ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Documentales",ID
+#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Documentales",ID
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
@@ -533,13 +533,13 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Fl
 #KODIPROP:inputstream.adaptive.license_key=e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2
 https://chromecast.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd
 
-#EXTINF:-1 tvg-id="eentertainment” tvg-name="E! Entertainment" tvg-logo="https://i.imgur.com/ZNcRZFb.png" group-title="Cine y Series",E! Entertainment
+#EXTINF:-1 tvg-id="EAndes.us” tvg-name="E! Entertainment" tvg-logo="https://i.imgur.com/ZNcRZFb.png" group-title="Cine y Series",E! Entertainment
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5883553207f13e3dc8cecd1113d5ba68:45434d40636dfa0e5312b93218e02185
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" audio-track="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="Cine y Series",A&E
+#EXTINF:-1 tvg-id="AESouth.us" tvg-name="A&E" audio-track="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="Cine y Series",A&E
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
