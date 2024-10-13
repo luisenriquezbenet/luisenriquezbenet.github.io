@@ -1,5 +1,4 @@
-#EXTM3U
-//url-tvg="https://www.bevy.be/generate/Bxz2Wb0E7l.xml" refresh="3600" 
+#EXTM3U url-tvg="https://www.bevy.be/generate/Bxz2Wb0E7l.xml" refresh="3600" 
 //https://www.bevy.be/bevyfiles/argentina.xml
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="Argentina",El Trece
