@@ -208,6 +208,12 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nic
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd
 
+#EXTINF:-1 tvg-id="CM" tvg-name="CM" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Música",CM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd
+
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-name="MTV" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="Música",MTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
