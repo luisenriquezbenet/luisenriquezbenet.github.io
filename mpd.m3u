@@ -550,3 +550,27 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Li
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
+
+#EXTINF:-1 tvg-id="Discovery_TLC" tvg-name="Discovery TLC" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" group-title="Documentales",Discovery TLC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58761c7b2819491eb3a0d765842c341a:9dabc48f88bd7f266734e57501bd6f47
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd
+
+#EXTINF:-1 tvg-id="Stingray Classica” tvg-logo="https://classica.stingray.com/static/site/classica/site/MetaImage.png" group-title="Música",Stingray Classica
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8
+//https://ocdn.eu/ptv2-images/logo-migrated/stingray-classica-hd.png
+
+#EXTINF:-1 tvg-id="Trace Latina” tvg-logo="https://en.wikipedia.org/wiki/Trace_Latina#/media/File:TRACE_Latina_Logo.png" group-title="Música",Trace Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+
+#EXTINF:-1 tvg-id="Canal del tiempo” tvg-logo="https://cdn.prod.website-files.com/62067d72bbc8c16db7c95ddd/625a3b23f4d93fdd074ce97c_TWCE_Color%20(1)-p-500.jpeg" group-title="Noticias",Canal del tiempo
+http://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV Flow Latino” tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/thumbnail.jpg" group-title="Música",MTV Flow Latino
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+//https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/featuredImage.jpg
+
+#EXTINF:-1 tvg-id="Stingray Conciertos” tvg-logo="https://iconcerts.stingray.com/sites/iconcerts/files/images/socials/StingrayiConcerts_MetaImage.png" group-title="Música",Stingray Conciertos
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+//https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e6981127202515.563614318ba8d.jpg
