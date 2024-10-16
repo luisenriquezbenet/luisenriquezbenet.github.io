@@ -482,8 +482,6 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Drea
 https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="Russia Today HD" audio-track="spa" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dnews.ar" tvg-logo="https://i.ibb.co/s68CvW1/DNews-2023.png" group-title="Noticias",DNews
