@@ -539,7 +539,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Fl
 #KODIPROP:inputstream.adaptive.license_key=e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2
 https://chromecast.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd
 
-#EXTINF:-1 tvg-id="EAndes.us" tvg-name="E! Entertainment" tvg-logo="https://github.com/luisenriquezbenet/logos/blob/74986ed65ddef80f1a29c52885395bf8ae204972/us/eentertainment.png" group-title="Cine y Series",E! Entertainment
+#EXTINF:-1 tvg-id="EAndes.us" tvg-name="E! Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/185px-E%21_Logo.svg.png" group-title="Cine y Series",E! Entertainment
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5883553207f13e3dc8cecd1113d5ba68:45434d40636dfa0e5312b93218e02185
