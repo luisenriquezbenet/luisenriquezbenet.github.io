@@ -754,8 +754,17 @@ https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_2A/TLC.mpd
 #EXTINF:-1 tvg-id="Stingray Classica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Stingray-classica-logo.svg/640px-Stingray-classica-logo.svg.png" group-title="Música",Stingray Classica
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8
 
+#EXTINF:-1 tvg-id="Stingray Jazz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stingray_Djazz.svg/800px-Stingray_Djazz.svg.png" group-title="Música",Stingray Jazz
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8
+
+#EXTINF:-1 tvg-id="Teatrix" tvg-logo="https://images.pluto.tv/channels/63ceb6ff60bc8f00088dc625/colorLogoPNG.png" group-title="Cine y Series",Teatrix
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63ceb6ff60bc8f00088dc625/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
 #EXTINF:-1 tvg-id="Trace Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="Música",Trace Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+
+#EXTINF:-1 tvg-id="Trace Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="Música",Trace Brasil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
 
 #EXTINF:-1 tvg-id="Canal del tiempo" tvg-logo="https://cdn.prod.website-files.com/62067d72bbc8c16db7c95ddd/625a3b23f4d93fdd074ce97c_TWCE_Color%20(1)-p-500.jpeg" group-title="Noticias",Canal del tiempo
 http://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
