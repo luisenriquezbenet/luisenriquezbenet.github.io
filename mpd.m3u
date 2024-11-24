@@ -117,14 +117,17 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_U
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://edge-live01-bel.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+https://flow-live.dlt.qwilted-cds.cqloud.com/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+https://qn-01282-hor-1-02-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="Deportes",TyC Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-https://flow-live.dlt.qwilted-cds.cqloud.com/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
-https://qn-01282-hor-1-02-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
-https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+https://flow-live.dlt.qwilted-cds.cqloud.com/live/c5eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+https://qn-01282-hor-1-02-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/live/c5eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+https://cdn.cvattv.com.ar/live/c5eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="Documentales",Animal Planet
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -490,7 +493,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 #EXTINF:-1 tvg-id="StudioUniversalPanregional.us" tvg-name="Studio Universal" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="Cine y Series",Studio Universal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
+#KODIPROP:inputstream.adaptive.license_key=d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
 https://flow-live.dlt.qwilted-cds.cqloud.com/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd
 https://qn-01282-hor-1-02-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd
 https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd
