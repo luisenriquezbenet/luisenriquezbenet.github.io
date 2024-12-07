@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/generate/Bxz2Wb0E7l.xml" refresh="3600" 
 //https://www.bevy.be/bevyfiles/argentina.xml
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="Argentina",El Trece
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-name="El Trece" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="Argentina",El Trece
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
@@ -9,7 +9,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.m
 https://qn-01282-hor-1-02-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
 
-#EXTINF:-1 tvg-id="TelefeHD.ar" tvg-name="Telefe" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="Argentina",Telefe
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-name="Telefe" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="Argentina",Telefe
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
@@ -17,7 +17,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.m
 https://qn-01282-hor-1-02-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="Argentina",TV Pública
+#EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-name="TV Pública" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="Argentina",TV Pública
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
@@ -25,7 +25,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mp
 https://qn-01282-hor-1-02-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
-#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="El Gourmet" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="Cocina",El Gourmet
+#EXTINF:-1 tvg-id="EL GOURMET.ar" tvg-name="El Gourmet" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="Cocina",El Gourmet
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d853ac4c8e24cf0295f6f97ee53bd3:fa5817fab4fb054ccea1abb9f3d767ed
@@ -33,7 +33,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.
 https://qn-01282-hor-1-02-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
-#EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-name="Food Network" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="Cocina",Food Network
+#EXTINF:-1 tvg-id="FOOD NETWORK.ar" tvg-name="Food Network" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="Cocina",Food Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ca0fbad21a0e908c0280dcc27e6ee0e:62670eedbafdf9360b4ecaed738e26cd
@@ -41,14 +41,14 @@ https://chromecast.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Foo
 https://qn-01282-hor-1-02-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
 https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
 
-#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN 1" audio-track="spa" tvg-logo="https://i.imgur.com/9A63D4g.png" group-title="Deportes",DAZN 1
+#EXTINF:-1 tvg-id="DAZN 1.es" tvg-name="DAZN 1" audio-track="spa" tvg-logo="https://i.imgur.com/9A63D4g.png" group-title="Deportes",DAZN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 tvg-id="DAZN2(src01).es" tvg-name="DAZN 2" audio-track="spa" tvg-logo="https://i.imgur.com/BevbzGm.png" group-title="Deportes",DAZN 2
+#EXTINF:-1 tvg-id="DAZN 2.es" tvg-name="DAZN 2" audio-track="spa" tvg-logo="https://i.imgur.com/BevbzGm.png" group-title="Deportes",DAZN 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
@@ -111,7 +111,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSp
 https://qn-01282-hor-1-02-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
 
-#EXTINF:-1 tvg-id="TNTSportsHDArgentina.ar" tvg-name="TNT Sports" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="Deportes",TNT Sports
+#EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-name="TNT Sports" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="Deportes",TNT Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
