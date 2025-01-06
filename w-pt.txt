@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://www.bevy.be/generate/Bxz2Wb0E7l.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml" refresh="3600" 
+//https://www.bevy.be/generate/Bxz2Wb0E7l.xml
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
