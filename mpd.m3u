@@ -716,7 +716,7 @@ https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-id="Deep House District" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/DanceTelevisionWhiteLogo2018_PNG.png" group-title="Música",Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
-#EXTINF:-1 tvg-id="TRACE SPORTS" tvg-name="Trace Sports" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="Deportes",Trace Sports
+#EXTINF:-1 tvg-id="TRACE SPORTS" tvg-name="Trace Sports" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="Deportes",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="VOA" tvg-name="VOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/VOA_logo.png" group-title="Noticias",VOA 1
