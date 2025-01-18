@@ -742,3 +742,66 @@ https://newsource-live.warnermediacdn.com/hls/live/2005452/intl03/master.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN Service 4
 https://newsource-live.warnermediacdn.com/hls/live/2005453/intl04/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TDP" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="España",TDP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
+https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
+
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antena_3_2017.svg/1200px-Antena_3_2017.svg.png" group-title="España",Antena 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a9e74b80c7cefa177926fc90eb05988:54e2cb64384e73b37b19d8c50e9479a4
+https://ott.zapitv.com/live/eds_c2/test/dash_live_enc/test.mpd
+
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="España",Cuatro
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=257fafffad77ccb5b8224d8fac6c9d62:81ebfc96640b0c8446c232f198b97dec
+https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
+
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" audio-track="spa" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DKISS" group-title="España",DKISS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a70651586506d7deea68016492dedb94:9b094387d596c64260754f07baeca18c
+https://ott.zapitv.com/live/eds_c2/dkiss_tv/dash_live_enc/dkiss_tv.mpd
+
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD" audio-track="spa" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="España",BE MAD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3743a0f5f8633002477dbd91510d7794:53d6e6c17b95cab5109a6fea5fd077d7
+https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_enc/bemad_hd.mpd
+
+#EXTINF:-1 tvg-id="Dark" tvg-name="Dark" audio-track="spa" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DARK" group-title="España",Dark
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee3899fcba09e6de20355394106ca745:d84b6489ff8e5aeecde84a659c0617b8
+https://cache3.zapitv.com/live/eds_c2/DARK_HD/dash_live_enc/DARK_HD.mpd
+
+#EXTINF:-1 tvg-id="Sundance" tvg-name="Sundance" audio-track="spa" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SUNDAN" group-title="España",Sundance
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7107df0ecf168438df3d5e35a06f5e8b:1541c20a7dc82b302ec9b97274910162
+https://ott.zapitv.com/live/eds_c2/sundance_hd/dash_live_enc/sundance_hd.mpd
+
+#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea" audio-track="spa" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="España",Odisea
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7837ebd0bfe0116ce5de21c7bc6158b:dd2decde9c929bddbee7e47bb68cfdca
+https://cache4.zapitv.com/live/eds_c2/odisea_hd/dash_live_enc/odisea_hd.mpd
+
+#EXTINF:-1 tvg-id="Canal De casa" tvg-name="Canal De casa" audio-track="spa" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/91997942b1a123a5780616e03acfa3cb_DECASA-NUEVO-LOGO-CANALTUAMC.png" group-title="España",Canal De casa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0909d9aaca5c6e6a0f1a4ad8e4459f65:eef835f4d956c3e0a794879e7dbe5bdd
+https://cache4.zapitv.com/live/eds_c2/decasa_hd/dash_live_enc/decasa_hd.mpd
+
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="Canal Cocina" audio-track="spa" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/fda5608b46dea58755a37c9af00193b6_c-cocina-black.svg.png" group-title="España",Canal Cocina
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1622e41b898458f889c697b0de3d1f0:7ad1ffd9308b35d961a6dae3c596fa57
+https://cache4.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
+
+#EXTINF:-1 tvg-id="Teleritmo" tvg-name="Teleritmo" audio-track="spa" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Música",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
