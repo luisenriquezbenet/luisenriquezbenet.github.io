@@ -805,3 +805,27 @@ https://cache4.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
 
 #EXTINF:-1 tvg-id="Teleritmo" tvg-name="Teleritmo" audio-track="spa" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Música",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
+
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="Noticias",CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN Brasil Money" tvg-name="CNN Brasil Money" tvg-logo="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/cnn_money_logo.png" group-title="Noticias",CNN Brasil Money
+https://cdn-fast.nxtv.com.br/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8?channel_code=cnnmoney?token=5ebb3b53e2d3451fd788b6864b84364de2d37ed8-73fae8b191e3e386a4a3d2d2fb886acf-1731110573-1731067373
+
+#EXTINF:-1 tvg-id="TraceUrban" tvg-name="Trace Urban" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/800px-Trace_Urban_logo_2010.svg.png" group-title="Música",Trace Urban
+https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Drone TV" tvg-name="Drone TV" audio-track="spa" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5B906B36-29CB-441B-ADCD-921E22A67BDD/3-1x1.png" group-title="Documentales",Drone TV
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Qwest Jazz" tvg-name="Qwest Jazz" audio-track="spa" tvg-logo="https://cdn.prod.website-files.com/6058a55e7bf32c592084ed88/6059be4e542a774d2917fcbb_newLogo-white-p-500.png" group-title="Música",Qwest Jazz
+https://qwest-jazz-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Love Wine" tvg-name="Love Wine" audio-track="spa" tvg-logo="https://www.lovetvchannels.com/sites/default/files/logotipos_de_bloque/AF_Lovewine_Logo_RGB.png" group-title="Cocina",Love Wine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentales",Love Nature
+https://bamus-lovenature-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Naturescape" tvg-name="Naturescape" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Stingray_Naturescape.png" group-title="Documentales",Naturescape
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
