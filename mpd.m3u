@@ -112,7 +112,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSp
 https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
 
 
-#EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-name="TNT Sports" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="Deportes",TNT Sports
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT Sports" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="Deportes",TNT Sports
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -281,7 +281,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd
 
 
-#EXTINF:-1 tvg-id="MTV.uy" tvg-name="MTV" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="Música",MTV
+#EXTINF:-1 tvg-id="MTV.ar" tvg-name="MTV" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="Música",MTV
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -385,7 +385,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.
 https://chromecast.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_2A/Film_Arts.mpd
 
 
-#EXTINF:-1 tvg-id="GoldenPremier.mx.uy" tvg-name="Golden Premier" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Cine y Series",Golden Premier
+#EXTINF:-1 tvg-id="Golden Premier HD.uy" tvg-name="Golden Premier" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Cine y Series",Golden Premier
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -634,7 +634,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_2A/Dream
 https://chromecast.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd
 
 
-#EXTINF:-1 tvg-id="RTenEspanol.ru.uy" tvg-name="Russia Today HD" audio-track="spa" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT
+#EXTINF:-1 tvg-id="RT HD.uy" tvg-name="Russia Today HD" audio-track="spa" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
@@ -652,7 +652,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd
 https://chromecast.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd
 
 
-#EXTINF:-1 tvg-id="SunChannel.ve.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_65257.png.f056a600d182fe0390e7fee0fb039ffb.png" group-title="Documentales",SUN Channel
+#EXTINF:-1 tvg-id="Sun Channel HD.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_65257.png.f056a600d182fe0390e7fee0fb039ffb.png" group-title="Documentales",SUN Channel
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=158177692aa3463eae5f4e1f72403e9c:1c6c026fba9cf7ecb576c7bedce0ead4
@@ -764,7 +764,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070dd
 #EXTINF:-1 tvg-id="Top TV" tvg-name="Top TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/480px-Top_TV_logo.svg.png" group-title="Música",Top TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 
-#EXTINF:-1 tvg-id="ClaroSports.mx.uy" tvg-name="Claro Sports" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/640px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
+#EXTINF:-1 tvg-id="Claro Sports HD.uy" tvg-name="Claro Sports" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/640px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
