@@ -966,19 +966,44 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1
 #EXTINF:-1 tvg-id="The Weather Channel" tvg-name="The Weather Channel" tvg-logo="https://cdn.prod.website-files.com/62067d72bbc8c16db7c95ddd/625a3b23f4d93fdd074ce97c_TWCE_Color%20(1)-p-500.jpeg" group-title="Noticias",The Weather Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627ae4fcf001df00074d6e5b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df13c2c6-8880-4f3d-b7b6-a18acfcb3069
 
-#EXTINF:-1 tvg-id="cnn chile" tvg-name="CNN Chile" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="NOTICIAS",CNN CHile
+#EXTINF:-1 tvg-id="cnn chile" tvg-name="CNN Chile" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="Noticias",CNN CHile
 https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",RTVE Play 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg/640px-Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg.png" group-title="Noticias",RTVE Play 1
 https://rtvelivestream.akamaized.net/rtvesec/oca/irtve01_main_1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",RTVE Play 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg/640px-Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg.png" group-title="Noticias",RTVE Play 2
 https://rtvelivestream.akamaized.net/rtvesec/oca/irtve02_main_1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",RTVE Play 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg/640px-Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg.png" group-title="Noticias",RTVE Play 3
 https://rtvelivestream.akamaized.net/rtvesec/oca/irtve03_main_1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",RTVE Play 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg/640px-Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg.png" group-title="Noticias",RTVE Play 4
 https://rtvelivestream.akamaized.net/rtvesec/oca/irtve04_main_1080.m3u8
 
+#EXTINF:-1 tvg-id="Telemundo Acción" tvg-name="Telemundo Acción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="Cine y Series",Telemundo Accion
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
+#EXTINF:-1 tvg-id="Telemundo Noticias Ahora" tvg-name="Telemundo Noticias Ahora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="Noticias", Telemundo Noticias Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Hiperconectados TV" tvg-name="Hiperconectados TV" audio-track="spa" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Documentales",Hiperconectados TV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MTV New Music" tvg-logo="https://images.pluto.tv/channels/668677b774f5ec0008124f33/colorLogoPNG.png" group-title="Música",MTV New Music
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668677b774f5ec0008124f33/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-name="Love the Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250304T115410SQUARE.png" group-title="Documentales",Love the Planet
+https://amg01821-lovetvchannels-lovetheplanetes-samsungspain-w1r0c.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetes-samsungspain/cb563d187c6c638e84ce3878d5f462ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aab6852db80148b6f4adafb8c2360625f5c98435ee3b24aaaade45b47893ff5ac1e409c2758e68314c9c94eb9d485469a418e7ff745cf93f5dad51888aaab5ff803f17a0848324297817496bb31dcb0814809ac4e06673370fbf9ed94233d82540d48fbc0d8ab77f61dc9fb48eb0b2c8f23a77cb002a3458d14fd9124c9acbfcc0c4236b4d45a1344ca84f0d0885f54bc62e8ecedd4770ef19c726377fa44fc3f7140fa9aca10978d1198a251e8de02060ce1a362bea99db3dbadd70af64bcbc3e7d63c525e5c000d8b5cab941fb543b16389fe231e7862698cb37bd9b4223f5a10273f18efb569798ce2c9e4ea1c2ecd751a439a18b339364dbcfae8e1875794a933799d2e4aa43838e9513681388dd0eb1215ba976c16bad0d347e966ebb00590b36a6d8a8e3870d1df03253f6878c0ef74193174c64bf0dc8ae572492de3f9d9fbd65a3c02365d3566eeb3b627cbde92617562b06ac038c2b51ab7a4afb45c7434a95be5be99de28798014282ee7e81252547893deb88582d9f089d415dce2f22326375562f2664b762e9b818457f9375c6d3a73b44f3513f3570102dd9cc7b3cddb2ed6ca30e378430473c9f520440b797a7745cec33f990db4d35592b3fe71e0a3cd1e4c8e39e326159ddbd325b8ce89d5400295e5064a31d98369953d7d8724d52d89c07997e50651526f163ab7e43ec856b7db95d038da7dfd3d6450de38eaccade3ac253c81b6453c3405506d0f717e3e03b5df9529404ce5b223e94af5a9328d4747382b48ce88620ddff016fcfdf6dedb05c6722125a35cd1f42deec3c6055f4e148c/39/848x480_1686360/index.m3u8
+
+#EXTINF:-1 tvg-name="MyPadel TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20241022T050555SQUARE.png" group-title="Deportes",MyPadel TV
+https://d1zpoa0s0okzmu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h7omeoyf2i8uy/5320179a-8f9c-4747-aa5c-4f451dea2d50/0.m3u8
+
+#EXTINF:-1 tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20241022T051134SQUARE.png" group-title="Cine y Series",Trailers
+https://amg01821-lovetvchannels-lovemagazinees-samsungspain-zll2b.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazinees-samsungspain/cb563d187c6c638e84ce3878d5f462ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aab6852db80148b6f4adafb8c2360625f5c98435ee3b24af7fcb309468e69a4ac1e409c2758e68314c9c915bc8385469d12d727a3159cc6f8df801888aeab54f803f17a0d56360ff4ea1288fd7c84fdbf5d16ac45351c5e3f88a297ed003d96577c58f7f2cab66b8d7da4e53ea050078424b762a519a476f075cd8d4fa4bef5de525106aac5566455cc8fca91da05038248da8fccc02902f39b157c548779db1d382c82f4c513f6ae7ffdad17a68b5a290ae9bf6286c7c2e986b18959d226c5d7e4994f2124025458f237ca9b69c867da7cb8dc6149362b5f8abe65f69b832d5a054e829310d01a1fcbb3e1e5c43e08e34406681301b3296dd554850d068718c0d85b599b330d90342489205fe271ddc8e2713ab99f6b08bacbd34abf4ee2b018dbf503d31c549ee501935e35684373c4eb7004347ccc07a1bb0e06c568728edae284ba773d173805460d86e7e96494cec42c5d3bce5d3265621913930b9c0eb565185179994e81e46100f43fc7755002327cfa154b4bc5fc2ea3e6e4ff0df2c2f82b2638582c903c0b326bc5bf895cf202861f1052ad007e4ab10b5b0dbfdb99a5d1b767c0986bbd2b223a5785a1470f590933540395c63c8c1efac549f0dbeb4cdce38825408717aa155fcb838b22abbbc18f6427a4877b55279bda2cc0330ac214df24c19253d0a25a0b1973111b94c004b10ff78fdaf42a9c2dbf464c2bb92ff5cfb5c1a30c3cd09844373c1e46572e02044b228c9a84344e2b96ff4d807ae9e452a5472e431c4fcc8d0d5bc6a5372b953b7a6fb2b389ec89cf101bde61e47faa3152f34f6cce802e995123d4f28deb2d2e39a23c983caac457e664d2/115/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="Cocina",Cozinha
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="Documentales",Viajando pelo Brasil
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
