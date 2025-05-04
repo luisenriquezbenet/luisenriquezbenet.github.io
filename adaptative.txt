@@ -966,5 +966,19 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1
 #EXTINF:-1 tvg-id="The Weather Channel" tvg-name="The Weather Channel" tvg-logo="https://cdn.prod.website-files.com/62067d72bbc8c16db7c95ddd/625a3b23f4d93fdd074ce97c_TWCE_Color%20(1)-p-500.jpeg" group-title="Noticias",The Weather Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627ae4fcf001df00074d6e5b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df13c2c6-8880-4f3d-b7b6-a18acfcb3069
 
-#EXTINF:-1 tvg-id="Telemundo Noticias Ahora" tvg-name="Telemundo Noticias Ahora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Noticias Ahora
-https://prodamdnbcmobile.akamaized.net/NBCU_Telemundo/1741130806915552/1/hls/index.m3u8
+#EXTINF:-1 tvg-id="cnn chile" tvg-name="CNN Chile" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="NOTICIAS",CNN CHile
+https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",RTVE Play 1
+https://rtvelivestream.akamaized.net/rtvesec/oca/irtve01_main_1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",RTVE Play 2
+https://rtvelivestream.akamaized.net/rtvesec/oca/irtve02_main_1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",RTVE Play 3
+https://rtvelivestream.akamaized.net/rtvesec/oca/irtve03_main_1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",RTVE Play 4
+https://rtvelivestream.akamaized.net/rtvesec/oca/irtve04_main_1080.m3u8
+
+
