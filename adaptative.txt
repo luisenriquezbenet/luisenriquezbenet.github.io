@@ -1007,3 +1007,34 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="Documentales",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFA+" tvg-name="FIFA+" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1780-LG-Logo-PNG-100x100_v1.png" group-title="Deportes",FIFA+
+https://cbd76eef.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXJfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FreeTV Hits" tvg-name="FreeTV Hits" tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/SamsungTVPlus_PartnerAssets_FreeTVHits.png" group-title="Música",FreeTV Hits
+https://amg01024-olympusat-amg01024c5-lg-ar-1139.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-flash-lgar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVE LA 1" tvg-name="TVE LA 1" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/960px-Logo_La_1.svg.png" group-title="España",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" audio-track="spa" tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="España",TVE
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+
+#EXTINF:-1 tvg-id="STAR TVE" tvg-name="STAR TVE" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="España",Star TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-id="Clan" tvg-name="Clan" audio-track="spa" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="España",Clan
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-id="Supertennis" tvg-name="Supertennis" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/640px-SuperTennis_-_Logo_2016.svg.png" group-title="Deportes",Supertennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+
+#EXTINF:-1 tvg-id="T2" tvg-name="T2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png" group-title="Deportes",T1
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tennis+" tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" group-title="Deportes",Tennis+
+#https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b30-6761f91555e174e95ccc4e4c/variant.m3u8?x-plex-token=qsUF5CfKbfbjzRHjBNiM&x-plex-advertising-identifier=&x-plex-client-identifier=c7e31179-e01f-430b-bb5f-7f8b98b5636e&x-plex-playback-id=p_25b4374d-3260-47c9-93d4-4cb16632e1a0&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=136.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1746855953&url=58f195d74595ffd9dd88d757a472170e-abeceb51c55e927b93f01fb7e8df024ab6bbf619dda86ef394858098e54ce71a1a134159d7f8f9f3aee83c99676b454c8f7f7151b0acea650077966559d3e6562740429521443ebc5518ba5931c5e9674a9456284a495ba12ee27eefd1bcfea472c5b20ea560d631c7514cacfae07581402470ec99fd55e3e416e59fd8fd58873662c767c1468afdf5f3693d9832cdec0ebcfc0151ec6760504026be2bed1eb3dd27c1a6e245735fc60cd07810306b7a
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b30-6761f91555e174e95ccc4e4c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=MBtuir92tjVxug9FTdbh
+
+#EXTINF:-1 tvg-id="LA BOCINA LATINA" tvg-name="LA BOCINA LATINA" tvg-logo="hhttps://imgur.com/CdfnKup.png" group-title="Música",La Bocina Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
